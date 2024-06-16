@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "random": "cpp"
+    },
+    "arduino.analyzeOnSettingChange": false,
+    "arduino.clearOutputOnBuild": true,
+    "arduino.logLevel": "verbose"
+}

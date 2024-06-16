@@ -1,0 +1,29 @@
+
+<<[Drone.ino] is running on Chip E462644007453F31>>
+Core 0|Freq 133.00MHz
+⠀     (\__/)
+      (•ㅅ•)      Don't talk to
+   ＿ノヽ ノ＼＿      me or my son
+`/　`/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.
+( 　(三ヽ人　 /　  |
+|　ﾉ⌒＼ ￣￣ヽ   ノ
+ ヽ＿＿＿＞､＿_／
+    ｜( 王 ﾉ〈   (\__/)
+    /ﾐ`ー―彡\   (•ㅅ•)
+   / ╰    ╯ \  /    \&gt;
+"/?" for help
+
+Command Motorsteuerung recieved.
+
+Set Motor 3 to 20.48
+Command Motorsteuerung recieved.
+
+Set Motor 3 to 4.10
+Command Motorsteuerung recieved.
+
+Set Motor 3 to 409.60
+Command Motorsteuerung recieved.
+
+Set Motor 3 to 0.00
+BatteryVoltage: 4.20
+BatteryVoltage: 4.19

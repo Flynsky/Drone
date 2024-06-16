@@ -1,0 +1,200 @@
+
+<<[Drone.ino] is running on Chip E462644007376137>>
+Core 0|Freq 133.00MHz|Watchdog Reset
+⠀     (\__/)
+      (•ㅅ•)      Don't talk to
+   ＿ノヽ ノ＼＿      me or my son
+`/　`/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.
+( 　(三ヽ人　 /　  |
+|　ﾉ⌒＼ ￣￣ヽ   ノ
+ ヽ＿＿＿＞､＿_／
+    ｜( 王 ﾉ〈   (\__/)
+    /ﾐ`ー―彡\   (•ㅅ•)
+   / ╰    ╯ \  /    \&gt;
+"/?" for help
+
+BatteryVoltage: 4.23
+Automatic Battery readout every 1000ms
+4.22
+4.23
+4.22
+4.23
+4.23
+4.23
+4.23
+4.23
+4.23
+Command Motorsteuerung recieved.
+
+Set Motor 1 to 0.00
+would set motor at 0
+4.23
+4.22
+4.23
+4.23
+4.23
+4.23
+Command Motorsteuerung recieved.
+
+Set Motor 1 to 0.01
+would set motor at 40
+4.20
+4.21
+4.20
+4.20
+4.21
+Command Motorsteuerung recieved.
+
+Set Motor 0 to 0.01
+would set motor at 40
+3.88
+4.14
+4.15
+4.16
+3.87
+4.13
+4.14
+3.89
+Command Motorsteuerung recieved.
+
+Set Motor 2 to 0.01
+would set motor at 40
+4.12
+4.12
+4.12
+3.67
+3.99
+4.09
+Command Motorsteuerung recieved.
+
+Set Motor 3 to 0.01
+would set motor at 40
+4.07
+3.78
+4.05
+4.08
+4.07
+3.54
+4.02
+3.75
+3.80
+3.76
+4.03
+4.05
+3.64
+3.54
+3.85
+3.75
+3.76
+Command Motorsteuerung recieved.
+
+No pwm value given
+4.02
+4.02
+4.04
+3.56
+4.00
+3.76
+Command Motorsteuerung recieved.
+
+Set Motor 2 to 0.02
+would set motor at 81
+3.93
+3.71
+3.98
+3.99
+4.00
+Command Motorsteuerung recieved.
+
+Set Motor 1 to 0.02
+would set motor at 81
+3.55
+3.52
+3.62
+3.71
+Command Motorsteuerung recieved.
+
+Set Motor 3 to 0.02
+would set motor at 81
+3.67
+3.67
+3.93
+3.55
+3.50
+3.35
+Command Motorsteuerung recieved.
+
+Set Motor 4 to 0.02
+would set motor at 3
+would set motor at 3
+would set motor at 3
+would set motor at 3
+4.03
+4.05
+4.05
+4.07
+4.07
+4.09
+4.09
+4.09
+4.16
+4.09
+4.10
+4.11
+3.56
+4.11
+3.81
+4.12
+Command Motorsteuerung recieved.
+
+would set motor at 0
+would set motor at 0
+would set motor at 0
+would set motor at 0
+4.12
+4.12
+4.12
+4.12
+4.14
+4.12
+4.12
+4.13
+4.12
+4.12
+4.13
+4.14
+4.13
+4.13
+4.13
+4.14
+4.14
+4.14
+4.12
+4.14
+4.14
+4.14
+4.12
+4.14
+4.13
+4.13
+4.15
+4.14
+4.13
+4.14
+4.14
+4.14
+4.14
+4.14
+4.14
+4.14
+4.14
+4.14
+4.14
+4.14
+4.14
+4.14
+4.14
+4.14
+4.14
+4.14
+4.14

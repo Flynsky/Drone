@@ -1,0 +1,44 @@
+
+<<[Drone.ino] is running on Chip E462644007376137>>
+Core 0|Freq 133.00MHz|Watchdog Reset
+⠀     (\__/)
+      (•ㅅ•)      Don't talk to
+   ＿ノヽ ノ＼＿      me or my son
+`/　`/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.
+( 　(三ヽ人　 /　  |
+|　ﾉ⌒＼ ￣￣ヽ   ノ
+ ヽ＿＿＿＞､＿_／
+    ｜( 王 ﾉ〈   (\__/)
+    /ﾐ`ー―彡\   (•ㅅ•)
+   / ╰    ╯ \  /    \&gt;
+"/?" for help
+
+<Start recieveing packets>
+[CC1101] Initializing ... success!
+[CC1101] Starting to listen ... success!
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!
+[CC1101] RSSI:		-36.00 dBm
+[CC1101] LQI:		47
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!
+[CC1101] RSSI:		-29.00 dBm
+[CC1101] LQI:		3
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!
+[CC1101] RSSI:		-12.00 dBm
+[CC1101] LQI:		17
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!
+[CC1101] RSSI:		-18.50 dBm
+[CC1101] LQI:		26
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!
+[CC1101] RSSI:		-19.00 dBm
+[CC1101] LQI:		26
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!
+[CC1101] RSSI:		-21.00 dBm
+[CC1101] LQI:		27
+<Stop recieveing packets>
+<Start recieveing packets>

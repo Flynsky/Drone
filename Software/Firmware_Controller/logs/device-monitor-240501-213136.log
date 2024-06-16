@@ -1,0 +1,74 @@
+
+<<[Drone.ino] is running on Chip E462644007376137>>
+Core 0|Freq 133.00MHz|Watchdog Reset
+⠀     (\__/)
+      (•ㅅ•)      Don't talk to
+   ＿ノヽ ノ＼＿      me or my son
+`/　`/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.
+( 　(三ヽ人　 /　  |
+|　ﾉ⌒＼ ￣￣ヽ   ノ
+ ヽ＿＿＿＞､＿_／
+    ｜( 王 ﾉ〈   (\__/)
+    /ﾐ`ー―彡\   (•ㅅ•)
+   / ╰    ╯ \  /    \&gt;
+"/?" for help
+
+[CC1101] Initializing ... success!
+[CC1101] Setting node address ... success!
+[CC1101] Starting to listen ... success!
+[CC1101] Received packet!
+[CC1101] Data:		
+[CC1101] RSSI:		-54.50 dBm
+[CC1101] LQI:		118
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!Number: 13j
+[CC1101] RSSI:		-113.00 dBm
+[CC1101] LQI:		50
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!Number: 16i
+[CC1101] RSSI:		-112.00 dBm
+[CC1101] LQI:		52
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!Number: 18j
+[CC1101] RSSI:		-111.50 dBm
+[CC1101] LQI:		53
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!Number: 19r
+[CC1101] RSSI:		-111.00 dBm
+[CC1101] LQI:		54
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!Number: 20r
+[CC1101] RSSI:		-137.00 dBm
+[CC1101] LQI:		2
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!Number: 21p
+[CC1101] RSSI:		-111.50 dBm
+[CC1101] LQI:		53
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!Number: 21m
+[CC1101] RSSI:		-111.00 dBm
+[CC1101] LQI:		54
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!Number: 24n
+[CC1101] RSSI:		-111.00 dBm
+[CC1101] LQI:		54
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!Number: 24l
+[CC1101] RSSI:		-111.00 dBm
+[CC1101] LQI:		54
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!Number: 26r
+[CC1101] RSSI:		-111.00 dBm
+[CC1101] LQI:		54
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!Number: 29j
+[CC1101] RSSI:		-111.00 dBm
+[CC1101] LQI:		54
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!Number: 30k
+[CC1101] RSSI:		-136.00 dBm
+[CC1101] LQI:		4
+[CC1101] Received packet!
+[CC1101] Data:		Hello World!Number: l
+[CC1101] RSSI:		-109.50 dBm
+[CC1101] LQI:		57

@@ -1,0 +1,18 @@
+
+<<[Drone.ino] is running on Chip E462644007376137>>
+Core 0|Freq 133.00MHz|Watchdog Reset
+⠀     (\__/)
+      (•ㅅ•)      Don't talk to
+   ＿ノヽ ノ＼＿      me or my son
+`/　`/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.
+( 　(三ヽ人　 /　  |
+|　ﾉ⌒＼ ￣￣ヽ   ノ
+ ヽ＿＿＿＞､＿_／
+    ｜( 王 ﾉ〈   (\__/)
+    /ﾐ`ー―彡\   (•ㅅ•)
+   / ╰    ╯ \  /    \&gt;
+"/?" for help
+
+[CC1101] Initializing ... success!
+[CC1101] Setting node address ... success!
+[CC1101] Waiting for incoming transmission ... Received data: 

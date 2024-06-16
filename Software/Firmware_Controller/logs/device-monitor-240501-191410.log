@@ -1,0 +1,339 @@
+
+<<[Drone.ino] is running on Chip E462644007376137>>
+Core 0|Freq 133.00MHz|Watchdog Reset
+⠀     (\__/)
+      (•ㅅ•)      Don't talk to
+   ＿ノヽ ノ＼＿      me or my son
+`/　`/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.
+( 　(三ヽ人　 /　  |
+|　ﾉ⌒＼ ￣￣ヽ   ノ
+ ヽ＿＿＿＞､＿_／
+    ｜( 王 ﾉ〈   (\__/)
+    /ﾐ`ー―彡\   (•ㅅ•)
+   / ╰    ╯ \  /    \&gt;
+"/?" for help
+
+[CC1101] Initializing ... success!
+[CC1101] Setting node address ... success!
+[CC1101] Starting to listen ... success!
+CRC error!
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldL
+[CC1101] RSSI:		-137.00 dBm
+[CC1101] LQI:		2
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldJ
+[CC1101] RSSI:		-110.50 dBm
+[CC1101] LQI:		55
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldR
+[CC1101] RSSI:		-110.00 dBm
+[CC1101] LQI:		56
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldV
+[CC1101] RSSI:		-110.00 dBm
+[CC1101] LQI:		56
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldJ
+[CC1101] RSSI:		-109.50 dBm
+[CC1101] LQI:		57
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldJ
+[CC1101] RSSI:		-136.50 dBm
+[CC1101] LQI:		3
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldJ
+[CC1101] RSSI:		-109.50 dBm
+[CC1101] LQI:		57
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldJ
+[CC1101] RSSI:		-109.50 dBm
+[CC1101] LQI:		57
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldJ
+[CC1101] RSSI:		-136.00 dBm
+[CC1101] LQI:		4
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldJ
+[CC1101] RSSI:		-109.00 dBm
+[CC1101] LQI:		58
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldL
+[CC1101] RSSI:		-109.50 dBm
+[CC1101] LQI:		57
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldT
+[CC1101] RSSI:		-109.00 dBm
+[CC1101] LQI:		58
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldU
+[CC1101] RSSI:		-109.00 dBm
+[CC1101] LQI:		58
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldV
+[CC1101] RSSI:		-109.00 dBm
+[CC1101] LQI:		58
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldV
+[CC1101] RSSI:		-109.00 dBm
+[CC1101] LQI:		58
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldV
+[CC1101] RSSI:		-108.50 dBm
+[CC1101] LQI:		59
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldV
+[CC1101] RSSI:		-108.50 dBm
+[CC1101] LQI:		59
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldV
+[CC1101] RSSI:		-108.50 dBm
+[CC1101] LQI:		59
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldV
+[CC1101] RSSI:		-108.00 dBm
+[CC1101] LQI:		60
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldV
+[CC1101] RSSI:		-108.00 dBm
+[CC1101] LQI:		60
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldV
+[CC1101] RSSI:		-108.00 dBm
+[CC1101] LQI:		60
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldV
+[CC1101] RSSI:		-108.00 dBm
+[CC1101] LQI:		60
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldV
+[CC1101] RSSI:		-108.00 dBm
+[CC1101] LQI:		60
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldQ
+[CC1101] RSSI:		-134.50 dBm
+[CC1101] LQI:		7
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldP
+[CC1101] RSSI:		-107.50 dBm
+[CC1101] LQI:		61
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldR
+[CC1101] RSSI:		-108.00 dBm
+[CC1101] LQI:		60
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldR
+[CC1101] RSSI:		-134.50 dBm
+[CC1101] LQI:		7
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldQ
+[CC1101] RSSI:		-134.50 dBm
+[CC1101] LQI:		7
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldR
+[CC1101] RSSI:		-108.00 dBm
+[CC1101] LQI:		60
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldS
+[CC1101] RSSI:		-108.00 dBm
+[CC1101] LQI:		60
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldM
+[CC1101] RSSI:		-108.00 dBm
+[CC1101] LQI:		60
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldL
+[CC1101] RSSI:		-108.00 dBm
+[CC1101] LQI:		60
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldP
+[CC1101] RSSI:		-108.00 dBm
+[CC1101] LQI:		60
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldQ
+[CC1101] RSSI:		-108.00 dBm
+[CC1101] LQI:		60
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldQ
+[CC1101] RSSI:		-108.00 dBm
+[CC1101] LQI:		60
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldS
+[CC1101] RSSI:		-108.00 dBm
+[CC1101] LQI:		60
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldT
+[CC1101] RSSI:		-107.50 dBm
+[CC1101] LQI:		61
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldV
+[CC1101] RSSI:		-107.50 dBm
+[CC1101] LQI:		61
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldN
+[CC1101] RSSI:		-107.50 dBm
+[CC1101] LQI:		61
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldR
+[CC1101] RSSI:		-107.50 dBm
+[CC1101] LQI:		61
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldR
+[CC1101] RSSI:		-134.00 dBm
+[CC1101] LQI:		8
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldR
+[CC1101] RSSI:		-133.50 dBm
+[CC1101] LQI:		9
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldR
+[CC1101] RSSI:		-107.00 dBm
+[CC1101] LQI:		62
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldR
+[CC1101] RSSI:		-107.00 dBm
+[CC1101] LQI:		62
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldS
+[CC1101] RSSI:		-107.00 dBm
+[CC1101] LQI:		62
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldS
+[CC1101] RSSI:		-107.00 dBm
+[CC1101] LQI:		62
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldN
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldZ
+[CC1101] RSSI:		-107.00 dBm
+[CC1101] LQI:		62
+[CC1101] Received packet!
+[CC1101] Data:		Hello World[
+[CC1101] RSSI:		-107.00 dBm
+[CC1101] LQI:		62
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldZ
+[CC1101] RSSI:		-107.00 dBm
+[CC1101] LQI:		62
+[CC1101] Received packet!
+[CC1101] Data:		Hello World[
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello WorldZ
+[CC1101] RSSI:		-133.50 dBm
+[CC1101] LQI:		9
+[CC1101] Received packet!
+[CC1101] Data:		Hello World`
+[CC1101] RSSI:		-107.00 dBm
+[CC1101] LQI:		62
+[CC1101] Received packet!
+[CC1101] Data:		Hello World`
+[CC1101] RSSI:		-133.50 dBm
+[CC1101] LQI:		9
+[CC1101] Received packet!
+[CC1101] Data:		Hello World^
+[CC1101] RSSI:		-133.50 dBm
+[CC1101] LQI:		9
+[CC1101] Received packet!
+[CC1101] Data:		Hello World\
+[CC1101] RSSI:		-133.50 dBm
+[CC1101] LQI:		9
+[CC1101] Received packet!
+[CC1101] Data:		Hello World`
+[CC1101] RSSI:		-133.00 dBm
+[CC1101] LQI:		10
+[CC1101] Received packet!
+[CC1101] Data:		Hello World_
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello World`
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello World_
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello World_
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello World^
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello World`
+[CC1101] RSSI:		-107.00 dBm
+[CC1101] LQI:		62
+[CC1101] Received packet!
+[CC1101] Data:		Hello World`
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello World^
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello World^
+[CC1101] RSSI:		-133.00 dBm
+[CC1101] LQI:		10
+[CC1101] Received packet!
+[CC1101] Data:		Hello World`
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello World`
+[CC1101] RSSI:		-132.50 dBm
+[CC1101] LQI:		11
+[CC1101] Received packet!
+[CC1101] Data:		Hello World`
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello World_
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello World^
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello World^
+[CC1101] RSSI:		-106.00 dBm
+[CC1101] LQI:		64
+[CC1101] Received packet!
+[CC1101] Data:		Hello World^
+[CC1101] RSSI:		-133.00 dBm
+[CC1101] LQI:		10
+[CC1101] Received packet!
+[CC1101] Data:		Hello World`
+[CC1101] RSSI:		-133.00 dBm
+[CC1101] LQI:		10
+[CC1101] Received packet!
+[CC1101] Data:		Hello World_
+[CC1101] RSSI:		-132.50 dBm
+[CC1101] LQI:		11
+[CC1101] Received packet!
+[CC1101] Data:		Hello Worldb
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello World`
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello Worlda
+[CC1101] RSSI:		-106.50 dBm
+[CC1101] LQI:		63
+[CC1101] Received packet!
+[CC1101] Data:		Hello Worlda
+[CC1101] RSSI:		-133.00 dBm
+[CC1101] LQI:		10
+[CC1101] Received packet!
+[CC1101] Data:		Hello Worlda
+[CC1101] RSSI:		-106.00 dBm
+[CC1101] LQI:		64
