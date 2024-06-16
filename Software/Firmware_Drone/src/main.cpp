@@ -9,7 +9,7 @@ void setup()
     pinMode(PIN_BATT, INPUT);
     print_startup_message();
     pinMode(23, 1);
-    digitalWrite(23,1);
+    digitalWrite(23,1); 
 }
 
 void loop()
