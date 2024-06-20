@@ -1,0 +1,26 @@
+ 
+[33m<<[Drone.ino] is running on Chip 536882409>>
+Core 0|Freq 133.00[0m[33mMHz|Watchdog Reset
+[0m[34m⠀     (\__/)
+      (•ㅅ•)      Don't talk to
+   ＿ノヽ ノ＼＿      me or my son
+`/　`/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.
+( 　(三ヽ人　 /　  |
+|　ﾉ⌒＼ ￣￣ヽ   ノ
+ ヽ＿＿＿＞､＿_／
+    ｜( 王 ﾉ〈   (\__/)
+    /ﾐ`ー―彡\   (•ㅅ•)
+   / ╰    ╯ \  /    \&gt;
+[0m[33m"/?" for help
+[0m[33mCommand Motorsteuerung recieved.
+[0mset motor pin 10 at 4096
+[33mCommand Motorsteuerung recieved.
+[0mset motor pin 10 at 0
+[33mCommand Motorsteuerung recieved.
+[0mset motor pin 10 at 204
+[33mCommand Motorsteuerung recieved.
+[0mset motor pin 10 at 4096
+[33mCommand Motorsteuerung recieved.
+[0mset motor pin 10 at 0
+Command invalid
+

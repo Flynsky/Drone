@@ -1,8 +1,10 @@
 #include "header.h"
 #include <MPU6050_light.h>
 
-const int ANALOG_WRITE_RANGE = 4096;
+const unsigned int ANALOG_WRITE_RANGE = 4096;
+const unsigned int ANALOG_WRITE_FREQ = 50000;
 const float REGEL_MAX = 10000;
+const unsigned int REGEL_FREQ = 1000;
 const float X_SETPOINT = 0;
 const float Y_SETPOINT = 0;
 
@@ -19,6 +21,7 @@ void pid_setup()
     pinMode(PIN_MOT1, OUTPUT);
     pinMode(PIN_MOT2, OUTPUT);
     pinMode(PIN_MOT3, OUTPUT);
+    analogWriteFreq(ANALOG_WRITE_FREQ);
     analogWriteRange(ANALOG_WRITE_RANGE);
     pid_init++;
 }
@@ -28,19 +31,26 @@ void pid_setup()
  */
 void pid_update()
 {
-    if (!pid_init)
+    static unsigned int last_regel = millis();
+    if (millis() >= last_regel)
     {
-        pid_setup();
-    }
-    float pidx = pid_x_update();
-    pidx = (ANALOG_WRITE_RANGE * pidx / REGEL_MAX);
-    float pidy = pid_y_update();
-    pidy = ANALOG_WRITE_RANGE * pidy / REGEL_MAX;
+        last_regel = millis()+ (1.0 / REGEL_FREQ)*1000;
 
-    // set_motor(0, -pidx);
-    set_motor(1, pidx);
-    set_motor(2, pidx);
-    // set_motor(3, -pidx);
+        if (!pid_init)
+        {
+            pid_setup();
+        }
+
+        float pidx = pid_x_update();
+        pidx = (ANALOG_WRITE_RANGE * pidx / REGEL_MAX);
+        float pidy = pid_y_update();
+        pidy = ANALOG_WRITE_RANGE * pidy / REGEL_MAX;
+
+        // set_motor(0, -pidx);
+        set_motor(1, pidx);
+        set_motor(2, pidx);
+        // set_motor(3, -pidx);
+    }
 }
 
 float kp_x = 0; // /p 13 2 10
@@ -63,7 +73,7 @@ float pid_x_update()
     unsigned int Ti = millis() - timebuff; // Time Constant
 
     /*-------------p------------*/
-    float p = kp_x * error * Ti;
+    float p = kp_x * error;
 
     /*-------------i------------*/
     ibuf_x += error * Ti;
@@ -154,7 +164,7 @@ void printPid(float p, float i, float d, float regl)
     }
 }
 
-#define MOTORMAX 0.4 // max motor power in percent/100
+#define MOTORMAX 1 // max motor power in percent/100
 void set_motor(uint8_t Motor_nr, float duty)
 {
     // selected
@@ -184,8 +194,9 @@ void set_motor(uint8_t Motor_nr, float duty)
 
     if (duty < MOTORMAX)
     {
+        analogWriteRange(ANALOG_WRITE_RANGE);
         analogWrite(Motor_nr, (int)(duty * ANALOG_WRITE_RANGE));
-        // Serial.printf("set motor pin %i at %i\n", Motor_nr, (int)(duty * ANALOG_WRITE_RANGE));
+        // Serial.printf("set motor pin %i at %u\n", Motor_nr, (int)(duty * ANALOG_WRITE_RANGE));
     }
     else
     {

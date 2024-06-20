@@ -4,7 +4,7 @@ void print_batVolt();
 void printMemoryUse();
 void battery_uv_protection();
 
-char mpu_print_enable;
+char mpu_print_enable = 1;
 
 /*Reads Serial Commands wich start with /*/
 void serial_commands()
@@ -47,19 +47,19 @@ void serial_commands()
                     }
                     if (motor_number == 4)
                     {
-                        set_motor(0, 0.003);
+                        set_motor(0, 0.2);
                         delay(200);
                         set_motor(0, 0);
                         delay(200);
-                        set_motor(1, 0.003);
+                        set_motor(1, 0.2);
                         delay(200);
                         set_motor(1, 0);
                         delay(200);
-                        set_motor(2, 0.003);
+                        set_motor(2, 0.2);
                         delay(200);
                         set_motor(2, 0);
                         delay(200);
-                        set_motor(3, 0.003);
+                        set_motor(3, 0.2);
                         delay(200);
                         set_motor(3, 0);
 

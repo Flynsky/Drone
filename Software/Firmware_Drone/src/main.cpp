@@ -9,7 +9,7 @@ void setup()
     pinMode(PIN_BATT, INPUT);
     print_startup_message();
     pinMode(23, 1);
-    digitalWrite(23,1); 
+    digitalWrite(23, 1);
 }
 
 void loop()
@@ -18,6 +18,10 @@ void loop()
     serial_commands();
     print_batVolt();
     battery_uv_protection();
+    // if (mpu_print_enable)
+    // {
+    //     mpu_print();
+    // }
 }
 
 //-------------------------core2------------------------
@@ -28,9 +32,14 @@ void setup1()
 
 void loop1()
 {
-    if(kp_x)
+    if (kp_x)
     {
         pid_update();
+        
+        if (mpu_print_enable)
+        {
+            mpu_print();
+        }
     }
 
     // delay(10);
