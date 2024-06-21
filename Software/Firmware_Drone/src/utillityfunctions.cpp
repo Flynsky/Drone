@@ -4,8 +4,6 @@ void print_batVolt();
 void printMemoryUse();
 void battery_uv_protection();
 
-char mpu_print_enable = 1;
-
 /*Reads Serial Commands wich start with /*/
 void serial_commands()
 {
@@ -39,29 +37,31 @@ void serial_commands()
                     motor_number = Serial.parseInt(SKIP_WHITESPACE);
                     if (motor_number == -1)
                     {
-                        set_motor(0, 0);
-                        set_motor(1, 0);
-                        set_motor(2, 0);
-                        set_motor(3, 0);
+                        set_motor(PIN_MOT0, 0);
+                        set_motor(PIN_MOT1, 0);
+                        set_motor(PIN_MOT2, 0);
+                        set_motor(PIN_MOT3, 0);
                         break;
                     }
                     if (motor_number == 4)
                     {
-                        set_motor(0, 0.2);
-                        delay(200);
-                        set_motor(0, 0);
-                        delay(200);
-                        set_motor(1, 0.2);
-                        delay(200);
-                        set_motor(1, 0);
-                        delay(200);
-                        set_motor(2, 0.2);
-                        delay(200);
-                        set_motor(2, 0);
-                        delay(200);
-                        set_motor(3, 0.2);
-                        delay(200);
-                        set_motor(3, 0);
+                        const unsigned int STRENGTH = ANALOG_WRITE_RANGE * 0.005;
+                        const unsigned int DURATION = 200;
+                        set_motor(PIN_MOT0, STRENGTH);
+                        delay(DURATION);
+                        set_motor(PIN_MOT0, 0);
+                        delay(DURATION);
+                        set_motor(PIN_MOT1, STRENGTH);
+                        delay(DURATION);
+                        set_motor(PIN_MOT1, 0);
+                        delay(DURATION);
+                        set_motor(PIN_MOT2, STRENGTH);
+                        delay(DURATION);
+                        set_motor(PIN_MOT2, 0);
+                        delay(DURATION);
+                        set_motor(PIN_MOT3, STRENGTH);
+                        delay(DURATION);
+                        set_motor(PIN_MOT3, 0);
 
                         break;
                     }
@@ -69,7 +69,7 @@ void serial_commands()
                     if (Serial.available() > 2)
                     {
                         duty = Serial.parseFloat(SKIP_WHITESPACE) / 100.0;
-                        set_motor(motor_number, duty);
+                        set_motor(motor_number, (uint)(duty * ANALOG_WRITE_RANGE));
                     }
 
                     else
@@ -160,8 +160,7 @@ void serial_commands()
                 }
                 else if (buffer == 'c')
                 {
-                    mpu_setup();
-                    debugln("MPU calibrated");
+                    mpu.calcOffsets();
                 }
                 else
                 {

@@ -1,11 +1,13 @@
 #include "header.h"
 #include <Wire.h>
-void scan_wire_single(unsigned int pinsda, unsigned int pinscl, char Wire_select, unsigned long freq);
+static void scan_wire_single(unsigned int pinsda, unsigned int pinscl, char Wire_select, unsigned long freq);
 
 /*scan the Wire interfaces for devices. Only works on RP2040 boards.*/
 void scan_wire()
 {
+    SET_COLOUR_YELLOW
     debugln("\n<I2C Scan>");
+    SET_COLOUR_RESET
     unsigned long freq = 100000;
     scan_wire_single(0, 1, 0, freq);
     scan_wire_single(2, 3, 1, freq);
@@ -19,48 +21,9 @@ void scan_wire()
     scan_wire_single(18, 19, 1, freq);
     scan_wire_single(20, 21, 0, freq);
     scan_wire_single(22, 23, 1, freq);
-
-    freq = 400000;
-    scan_wire_single(0, 1, 0, freq);
-    scan_wire_single(2, 3, 1, freq);
-    scan_wire_single(4, 5, 0, freq);
-    scan_wire_single(6, 7, 1, freq);
-    scan_wire_single(8, 9, 0, freq);
-    scan_wire_single(10, 11, 1, freq);
-    scan_wire_single(12, 13, 0, freq);
-    scan_wire_single(14, 15, 1, freq);
-    scan_wire_single(16, 17, 0, freq);
-    scan_wire_single(18, 19, 1, freq);
-    scan_wire_single(20, 21, 0, freq);
-    scan_wire_single(22, 23, 1, freq);
-
-    freq = 1000000;
-    scan_wire_single(0, 1, 0, freq);
-    scan_wire_single(2, 3, 1, freq);
-    scan_wire_single(4, 5, 0, freq);
-    scan_wire_single(6, 7, 1, freq);
-    scan_wire_single(8, 9, 0, freq);
-    scan_wire_single(10, 11, 1, freq);
-    scan_wire_single(12, 13, 0, freq);
-    scan_wire_single(14, 15, 1, freq);
-    scan_wire_single(16, 17, 0, freq);
-    scan_wire_single(18, 19, 1, freq);
-    scan_wire_single(20, 21, 0, freq);
-    scan_wire_single(22, 23, 1, freq);
-
-    freq = 5000000;
-    scan_wire_single(0, 1, 0, freq);
-    scan_wire_single(2, 3, 1, freq);
-    scan_wire_single(4, 5, 0, freq);
-    scan_wire_single(6, 7, 1, freq);
-    scan_wire_single(8, 9, 0, freq);
-    scan_wire_single(10, 11, 1, freq);
-    scan_wire_single(12, 13, 0, freq);
-    scan_wire_single(14, 15, 1, freq);
-    scan_wire_single(16, 17, 0, freq);
-    scan_wire_single(18, 19, 1, freq);
-    scan_wire_single(20, 21, 0, freq);
-    scan_wire_single(22, 23, 1, freq);
+    scan_wire_single(24, 25, 0, freq);
+    scan_wire_single(26, 27, 1, freq);
+    scan_wire_single(28, 29, 0, freq);
 
     debugln("I2C Scan complete.\n");
 }
@@ -68,8 +31,8 @@ void scan_wire()
 /*needed for scan wire*/
 void scan_wire_single(unsigned int pinsda, unsigned int pinscl, char Wire_select, unsigned long freq)
 {
-    pinMode(pinsda, INPUT_PULLUP);
-    pinMode(pinscl, INPUT_PULLUP);
+    pinMode(pinsda, OUTPUT);
+    pinMode(pinscl, OUTPUT);
     TwoWire *wireToUse;
     if (!Wire_select)
     {
@@ -94,19 +57,7 @@ void scan_wire_single(unsigned int pinsda, unsigned int pinscl, char Wire_select
 
         if (error == 0)
         {
-            debugln("adr  |sda|scl|Wire|freq");
-            if (address < 16)
-                debug("0");
-            debug(address);
-            debug("  | ");
-            debug(pinsda);
-            debug(" | ");
-            debug(pinscl);
-            debug(" | ");
-            debug(Wire_select);
-            debug(" | ");
-            debugln(freq);
-            debugln();
+            debugf_white("adr: %i| sda: %i| scl: %i| wire: %i|freq: %i\n", address, pinsda, pinscl, Wire_select,freq);
             nDevices++;
         }
         else if (error == 4)

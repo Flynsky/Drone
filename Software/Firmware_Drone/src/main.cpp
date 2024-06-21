@@ -6,6 +6,7 @@ void print_startup_message();
 //------------------------core1--------------------------------
 void setup()
 {
+    mpu_setup();
     pinMode(PIN_BATT, INPUT);
     print_startup_message();
     pinMode(23, 1);
@@ -14,14 +15,9 @@ void setup()
 
 void loop()
 {
-    // Radio_recieve();
     serial_commands();
     print_batVolt();
     battery_uv_protection();
-    // if (mpu_print_enable)
-    // {
-    //     mpu_print();
-    // }
 }
 
 //-------------------------core2------------------------
@@ -32,14 +28,11 @@ void setup1()
 
 void loop1()
 {
-    if (kp_x)
+    pid_update();
+
+    if (mpu_print_enable)
     {
-        pid_update();
-        
-        if (mpu_print_enable)
-        {
-            mpu_print();
-        }
+        mpu_print();
     }
 
     // delay(10);

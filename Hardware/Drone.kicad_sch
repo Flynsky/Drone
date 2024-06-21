@@ -694,6 +694,17 @@
 		)
 		(uuid "f6164673-7ab9-4ac9-8ccd-631e5c7ded10")
 	)
+	(text "Design Errors:\n- I2C pullups missing\n- Motor0 shares timer with Motor2\n- no battery kill switch\n- exposed ground on the corners VDD on the frond VSS on the back\n- reset button\n- funk vertically?"
+		(exclude_from_sim no)
+		(at 196.342 90.424 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "61e49a67-1b5b-4218-81d0-4adc8c178bcc")
+	)
 	(label "3V3"
 		(at 76.2 101.6 0)
 		(fields_autoplaced yes)

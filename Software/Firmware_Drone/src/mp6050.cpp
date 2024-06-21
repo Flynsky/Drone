@@ -19,11 +19,15 @@ char mpu_init = 0;
 
 void mpu_setup()
 {
+    if (mpu_init)
+    {
+        debugln("mpu already initialised\n");
+        return;
+    }
     Wire1.setClock(400000);
     Wire1.setSCL(PIN_MPU_SCL);
     Wire1.setSDA(PIN_MPU_SDA);
     Wire1.begin();
-
     byte status = mpu.begin();
     Serial.print(F("MPU6050 status: "));
     Serial.println(status);
@@ -31,6 +35,7 @@ void mpu_setup()
     {
         mpu_init = 0;
         Serial.println("Could not connect to MPU6050.");
+        rp2040.reboot();
         return;
     }
     Serial.println(F("Calculating offsets, do not move MPU6050"));
@@ -46,7 +51,7 @@ void mpu_print()
     {
         mpu_setup();
     }
-    mpu.update();
+    // mpu.update();
 
 #if TELEPLOT_ENABLE == 1
     // Serial.print(F(">temp: "));

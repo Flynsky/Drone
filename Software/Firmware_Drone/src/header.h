@@ -26,7 +26,7 @@ const unsigned int ANALOG_WRITE_FREQ = 20000;
 #define PIN_MPU_SCL 3
 #define PIN_MPU_SDA 2
 
-#define BATVOLTMIN 2.2 // at this voltage the porzessor disables all Motors
+#define BATVOLTMIN 3.0 // at this voltage the porzessor disables all Motors
 
 /*utilitifunctions*/
 extern char mpu_print_enable;
@@ -40,6 +40,7 @@ void battery_uv_protection();
 void scan_wire();
 
 /*mpu*/
+extern char mpu_init;
 extern MPU6050 mpu;
 void mpu_setup();
 void mpu_print();
@@ -55,6 +56,6 @@ extern float kp_x;
 extern float ki_x;
 extern float kd_x;
 void pid_update();
-void set_motor(uint8_t Motor_nr, float duty);
+void set_motor(uint8_t Pin, unsigned int analog_write_value);
 
 #endif
