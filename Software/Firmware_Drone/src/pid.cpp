@@ -1,17 +1,16 @@
 #include "header.h"
 #include <MPU6050_light.h>
 
-const unsigned int ANALOG_WRITE_RANGE = 4096;
-const unsigned int ANALOG_WRITE_FREQ = 50000;
-const float REGEL_MAX = 10000;
+const float REGEL_MAX = ANALOG_WRITE_RANGE;
 const unsigned int REGEL_FREQ = 1000;
+
 const float X_SETPOINT = 0;
 const float Y_SETPOINT = 0;
 
 static float pid_x_update();
 static float pid_y_update();
 static void printPid(float p, float i, float d, float regl);
-void set_motor(uint8_t Pin, float duty);
+void set_motor(uint8_t Pin, unsigned int analog_write_value);
 
 char pid_init = 0;
 void pid_setup()
@@ -34,7 +33,7 @@ void pid_update()
     static unsigned int last_regel = millis();
     if (millis() >= last_regel)
     {
-        last_regel = millis()+ (1.0 / REGEL_FREQ)*1000;
+        last_regel = millis() + (1000 / REGEL_FREQ);
 
         if (!pid_init)
         {
@@ -42,9 +41,7 @@ void pid_update()
         }
 
         float pidx = pid_x_update();
-        pidx = (ANALOG_WRITE_RANGE * pidx / REGEL_MAX);
         float pidy = pid_y_update();
-        pidy = ANALOG_WRITE_RANGE * pidy / REGEL_MAX;
 
         // set_motor(0, -pidx);
         set_motor(1, pidx);
@@ -63,20 +60,20 @@ const float IBUF_X_MINMAX = 1000000;
  */
 float pid_x_update()
 {
-    mpu.update();
-
-    static unsigned int timebuff = millis();
+    static unsigned int time_last = millis();
     static float ibuf_x = 0;
+
+    mpu.update();
 
     float error = X_SETPOINT - mpu.getAngleX();
 
-    unsigned int Ti = millis() - timebuff; // Time Constant
+    unsigned int Ti = millis() - time_last; // Time from last messurement to the current
 
     /*-------------p------------*/
     float p = kp_x * error;
 
     /*-------------i------------*/
-    ibuf_x += error * Ti;
+    ibuf_x += error * Ti * 0.001;
     float i = ki_x * ibuf_x;
 
     if (ibuf_x > IBUF_X_MINMAX)
@@ -89,13 +86,18 @@ float pid_x_update()
     }
 
     /*-------------d------------*/
-    float d = kd_x * -1 * mpu.getGyroX();
+    float d = kd_x * -mpu.getGyroX();
 
     /*------------calc----------*/
 
     float regl = p + i + d;
+    if (regl > REGEL_MAX)
+    {
+        regl = REGEL_MAX;
+    }
     printPid(p, i, d, regl);
-    timebuff = millis();
+
+    time_last = millis();
     return regl;
 }
 
@@ -111,12 +113,12 @@ float pid_y_update()
 {
     mpu.update();
 
-    static unsigned int timebuff = millis();
+    static unsigned int time_last = millis();
     static float ibuf_y = 0;
 
     float error = Y_SETPOINT - mpu.getAngleY();
 
-    unsigned int Ti = millis() - timebuff; // Time Constant
+    unsigned int Ti = millis() - time_last; // Time Constant
 
     /*-------------p------------*/
     float p = kp_y * error * Ti;
@@ -141,7 +143,7 @@ float pid_y_update()
 
     float regl = p + i + d;
     printPid(p, i, d, regl);
-    timebuff = millis();
+    time_last = millis();
     return regl;
 }
 
@@ -164,8 +166,9 @@ void printPid(float p, float i, float d, float regl)
     }
 }
 
-#define MOTORMAX 1 // max motor power in percent/100
-void set_motor(uint8_t Motor_nr, float duty)
+const unsigned int MOTORMAX = (ANALOG_WRITE_RANGE * 0.2); // max motor power in percent/100
+
+void set_motor(uint8_t Motor_nr, unsigned int analog_write_value)
 {
     // selected
     switch (Motor_nr)
@@ -186,17 +189,9 @@ void set_motor(uint8_t Motor_nr, float duty)
         return;
     }
 
-    if (duty < 0)
+    if (analog_write_value < MOTORMAX)
     {
-        digitalWrite(Motor_nr, 0);
-        return;
-    }
-
-    if (duty < MOTORMAX)
-    {
-        analogWriteRange(ANALOG_WRITE_RANGE);
-        analogWrite(Motor_nr, (int)(duty * ANALOG_WRITE_RANGE));
-        // Serial.printf("set motor pin %i at %u\n", Motor_nr, (int)(duty * ANALOG_WRITE_RANGE));
+        analogWrite(Motor_nr, analog_write_value);
     }
     else
     {

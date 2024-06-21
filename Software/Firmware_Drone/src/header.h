@@ -5,6 +5,11 @@
 #include <MPU6050_light.h>
 #include "debug_in_color.h"
 
+/*----const-------*/
+const unsigned int ANALOG_WRITE_RANGE = 4096;
+const unsigned int ANALOG_WRITE_FREQ = 20000;
+
+/*----pins-------*/
 #define PIN_FUNK_CS 21
 #define PIN_RADIO_MISO 16
 #define PIN_RADIO_MOSI 19
