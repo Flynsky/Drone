@@ -1,0 +1,12 @@
+
+<<[Drone.ino] is running on Chip E462644007376137>>
+Core 0|Freq 133.00MHz|Watchdog Reset
+"/?" for help
+
+<help>
+/b|Returns Battery Voltage. If followed by a number (z.B.4) it reads out battery every 4 [ms]. Set to -1 to disable this freature
+/m|Motorsteuerung: Give Speed in Percent (for example 8) and add one (so 9). Set to 1 to turn Motor off
+/f|Frequncyrange of the Motors: Give Frequency in Percent and subtract one Percent
+/w|I2C Scanner
+r/recives a radio packet.
+/a tests mpu

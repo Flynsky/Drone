@@ -1,0 +1,75 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP SC0914_7_
+D Microcontrollers connect the world of software to the world of hardware. They allow developers to write software which interacts with the physical world in the same deterministic, cycle-accurate manner as digital logic. They occupy the bottom left corner of the price/performance space, outselling their more powerful brethren by a factor of ten to one. They are the workhorses that power the digital transformation of our world.
+K
+F 
+$ENDCMP
+#
+$CMP GSB1C41110SSHR
+D USB2.0, Type C, Top mount, Center Height 1.63mm, Single Row Surface Mount
+K
+F https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb1c41x10sshr-ax1.pdf
+$ENDCMP
+#
+$CMP W25Q128JVSIM_TR
+D 3V 128M-BIT SERIAL FLASH MEMORY WITH DUAL/QUAD SPI & QPI & DTR
+K
+F http://www.winbond.com/resource-files/w25q128jv%20dtr%20revb%2011042016.pdf
+$ENDCMP
+#
+$CMP 435441019830
+D Tactile Switches WS-TASV Tact Switch Washable 4.1x2.8x1.9 mm SMT
+K
+F https://www.we-online.com/catalog/datasheet/435441019830.pdf
+$ENDCMP
+#
+$CMP LM3940IMP-3.3_NOPB
+D LM3940IMP-3.3/NOPB, Low Dropout Voltage Regulator, 1A, 3.3 V, 4.5  7.5 Vin, 4-Pin SOT-223
+K
+F http://www.ti.com/lit/ds/symlink/lm3940.pdf
+$ENDCMP
+#
+$CMP MCP73831T-2ACI_OT
+D Li-Ion Charge Controller 4.2V SOT23-5
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP SQ2310ES-T1_GE3
+D Vishay SQ2310ES-T1_GE3 N-channel MOSFET, 6 A, 20 V SQ Rugged, 3-Pin SOT-23
+K
+F https://www.vishay.com/docs/67036/sq2310es.pdf
+$ENDCMP
+#
+$CMP MPU-6050
+D IMUs - Inertial Measurement Units 6-Axis MEMS MotionTracking  Device with DMP
+K
+F https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/mpu-6000-datasheet1.pdf
+$ENDCMP
+#
+$CMP THB001P
+D THUMBSTICK, 0.05A, 12VDC, 2 AXIS, PCB; No. of Axes:2; Track Resistance:10kohm; Supply Voltage Max:-; No. of Switch Positions:-; Contact Current AC Max:-; Contact Voltage AC Max:50V; Rotation Electrical Angle:36
+K
+F https://www.ckswitches.com/media/2873/thb.pdf
+$ENDCMP
+#
+$CMP SS34
+D ON Semi SS34 SMT Schottky Diode, 40V 3A, 2-Pin DO-214AB
+K
+F https://componentsearchengine.com/Datasheets/2/SS34.pdf
+$ENDCMP
+#
+$CMP APTD2012LCGCK
+D Standard LEDs - SMD 0805 Dome Lens LED Green- 570nm
+K
+F http://www.kingbrightusa.com/images/catalog/SPEC/APTD2012LCGCK.pdf
+$ENDCMP
+#
+#End Doc Library

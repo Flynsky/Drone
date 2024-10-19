@@ -1,0 +1,8099 @@
+
+<<[Drone.ino] is running on Chip E462644007376137>>
+Core 0|Freq 133.00MHz|Watchdog Reset
+⠀     (\__/)
+      (•ㅅ•)      Don't talk to
+   ＿ノヽ ノ＼＿      me or my son
+`/　`/ ⌒Ｙ⌒ Ｙ  ヽ     ever again.
+( 　(三ヽ人　 /　  |
+|　ﾉ⌒＼ ￣￣ヽ   ノ
+ ヽ＿＿＿＞､＿_／
+    ｜( 王 ﾉ〈   (\__/)
+    /ﾐ`ー―彡\   (•ㅅ•)
+   / ╰    ╯ \  /    \&gt;
+"/?" for help
+
+Autoprint of MPU info enabled
+MPU6050 status: 0
+Calculating offsets, do not move MPU6050
+Done!
+
+>ANGLE X: 1.83
+>ANGLE Y: -0.82
+>ANGLE Z: 1.48
+MPU6050 status: 0
+Calculating offsets, do not move MPU6050
+Done!
+
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.70
+>ANGLE Y: 1.41
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 1.34
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.63
+>ANGLE Y: 1.27
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.61
+>ANGLE Y: 1.20
+>ANGLE Z: 3.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.58
+>ANGLE Y: 1.13
+>ANGLE Z: 3.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.55
+>ANGLE Y: 1.07
+>ANGLE Z: 3.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.52
+>ANGLE Y: 1.00
+>ANGLE Z: 3.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.49
+>ANGLE Y: 0.94
+>ANGLE Z: 3.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.46
+>ANGLE Y: 0.88
+>ANGLE Z: 3.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.42
+>ANGLE Y: 0.83
+>ANGLE Z: 3.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.40
+>ANGLE Y: 0.78
+>ANGLE Z: 3.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.37
+>ANGLE Y: 0.73
+>ANGLE Z: 3.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.36
+>ANGLE Y: 0.68
+>ANGLE Z: 3.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.33
+>ANGLE Y: 0.64
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.31
+>ANGLE Y: 0.59
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.29
+>ANGLE Y: 0.55
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.26
+>ANGLE Y: 0.51
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.23
+>ANGLE Y: 0.48
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.20
+>ANGLE Y: 0.45
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.17
+>ANGLE Y: 0.42
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.15
+>ANGLE Y: 0.38
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.12
+>ANGLE Y: 0.36
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.33
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.08
+>ANGLE Y: 0.30
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.08
+>ANGLE Y: 0.28
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.06
+>ANGLE Y: 0.26
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.05
+>ANGLE Y: 0.24
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.04
+>ANGLE Y: 0.20
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.04
+>ANGLE Y: 0.18
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.03
+>ANGLE Y: 0.14
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.01
+>ANGLE Y: 0.11
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.00
+>ANGLE Y: 0.11
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: 0.09
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: 0.07
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.05
+>ANGLE Y: 0.04
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: 0.02
+>ANGLE Z: 3.30
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: 0.01
+>ANGLE Z: 3.30
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.01
+>ANGLE Z: 3.30
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.02
+>ANGLE Z: 3.30
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.12
+>ANGLE Y: -0.03
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.04
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.13
+>ANGLE Y: -0.02
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.14
+>ANGLE Y: -0.02
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.15
+>ANGLE Y: -0.02
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.15
+>ANGLE Y: -0.04
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.15
+>ANGLE Y: -0.03
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.15
+>ANGLE Y: -0.03
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.15
+>ANGLE Y: -0.04
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.17
+>ANGLE Y: -0.05
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.17
+>ANGLE Y: -0.06
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.17
+>ANGLE Y: -0.07
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.18
+>ANGLE Y: -0.07
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.19
+>ANGLE Y: -0.08
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.19
+>ANGLE Y: -0.08
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.19
+>ANGLE Y: -0.09
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.11
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.11
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.13
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.15
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.16
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.17
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.17
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.18
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.18
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.19
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.20
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.19
+>ANGLE Y: -0.21
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.23
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.21
+>ANGLE Y: -0.19
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.18
+>ANGLE Y: -0.21
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.19
+>ANGLE Y: -0.18
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.18
+>ANGLE Y: -0.19
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.23
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.21
+>ANGLE Y: -0.28
+>ANGLE Z: 3.30
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.21
+>ANGLE Y: -0.29
+>ANGLE Z: 3.30
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.34
+>ANGLE Z: 3.30
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.18
+>ANGLE Y: -0.36
+>ANGLE Z: 3.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.17
+>ANGLE Y: -0.36
+>ANGLE Z: 3.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.17
+>ANGLE Y: -0.37
+>ANGLE Z: 3.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.15
+>ANGLE Y: -0.38
+>ANGLE Z: 3.26
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.14
+>ANGLE Y: -0.38
+>ANGLE Z: 3.25
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.13
+>ANGLE Y: -0.38
+>ANGLE Z: 3.24
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.13
+>ANGLE Y: -0.39
+>ANGLE Z: 3.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.14
+>ANGLE Y: -0.39
+>ANGLE Z: 3.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.15
+>ANGLE Y: -0.40
+>ANGLE Z: 3.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.16
+>ANGLE Y: -0.41
+>ANGLE Z: 3.19
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.18
+>ANGLE Y: -0.44
+>ANGLE Z: 3.18
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.21
+>ANGLE Y: -0.44
+>ANGLE Z: 3.17
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.23
+>ANGLE Y: -0.44
+>ANGLE Z: 3.16
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.26
+>ANGLE Y: -0.43
+>ANGLE Z: 3.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.29
+>ANGLE Y: -0.43
+>ANGLE Z: 3.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.32
+>ANGLE Y: -0.42
+>ANGLE Z: 3.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.36
+>ANGLE Y: -0.41
+>ANGLE Z: 3.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.39
+>ANGLE Y: -0.39
+>ANGLE Z: 3.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.41
+>ANGLE Y: -0.38
+>ANGLE Z: 3.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.44
+>ANGLE Y: -0.37
+>ANGLE Z: 3.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.46
+>ANGLE Y: -0.37
+>ANGLE Z: 3.16
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.48
+>ANGLE Y: -0.35
+>ANGLE Z: 3.17
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.49
+>ANGLE Y: -0.34
+>ANGLE Z: 3.18
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.51
+>ANGLE Y: -0.33
+>ANGLE Z: 3.18
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.52
+>ANGLE Y: -0.32
+>ANGLE Z: 3.19
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.52
+>ANGLE Y: -0.31
+>ANGLE Z: 3.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.53
+>ANGLE Y: -0.29
+>ANGLE Z: 3.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.54
+>ANGLE Y: -0.29
+>ANGLE Z: 3.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.54
+>ANGLE Y: -0.27
+>ANGLE Z: 3.23
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.53
+>ANGLE Y: -0.27
+>ANGLE Z: 3.24
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.51
+>ANGLE Y: -0.25
+>ANGLE Z: 3.25
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.49
+>ANGLE Y: -0.24
+>ANGLE Z: 3.26
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.48
+>ANGLE Y: -0.24
+>ANGLE Z: 3.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.47
+>ANGLE Y: -0.25
+>ANGLE Z: 3.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.44
+>ANGLE Y: -0.24
+>ANGLE Z: 3.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.42
+>ANGLE Y: -0.23
+>ANGLE Z: 3.30
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.40
+>ANGLE Y: -0.24
+>ANGLE Z: 3.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.38
+>ANGLE Y: -0.25
+>ANGLE Z: 3.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.35
+>ANGLE Y: -0.24
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.33
+>ANGLE Y: -0.23
+>ANGLE Z: 3.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.30
+>ANGLE Y: -0.22
+>ANGLE Z: 3.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.30
+>ANGLE Y: -0.24
+>ANGLE Z: 3.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.28
+>ANGLE Y: -0.18
+>ANGLE Z: 3.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.24
+>ANGLE Y: -0.19
+>ANGLE Z: 3.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.21
+>ANGLE Y: -0.18
+>ANGLE Z: 3.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.18
+>ANGLE Y: -0.16
+>ANGLE Z: 3.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.17
+>ANGLE Y: -0.15
+>ANGLE Z: 3.37
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.16
+>ANGLE Y: -0.15
+>ANGLE Z: 3.37
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.16
+>ANGLE Y: -0.14
+>ANGLE Z: 3.37
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.14
+>ANGLE Y: -0.15
+>ANGLE Z: 3.38
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.13
+>ANGLE Y: -0.14
+>ANGLE Z: 3.38
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.14
+>ANGLE Y: -0.13
+>ANGLE Z: 3.38
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.13
+>ANGLE Y: -0.13
+>ANGLE Z: 3.38
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.13
+>ANGLE Y: -0.14
+>ANGLE Z: 3.38
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.13
+>ANGLE Y: -0.13
+>ANGLE Z: 3.39
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.12
+>ANGLE Y: -0.13
+>ANGLE Z: 3.39
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.13
+>ANGLE Y: -0.13
+>ANGLE Z: 3.39
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.14
+>ANGLE Y: -0.14
+>ANGLE Z: 3.39
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.14
+>ANGLE Y: -0.14
+>ANGLE Z: 3.39
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.15
+>ANGLE Y: -0.13
+>ANGLE Z: 3.39
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.16
+>ANGLE Y: -0.13
+>ANGLE Z: 3.39
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.17
+>ANGLE Y: -0.13
+>ANGLE Z: 3.40
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.19
+>ANGLE Y: -0.12
+>ANGLE Z: 3.40
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.11
+>ANGLE Z: 3.40
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.21
+>ANGLE Y: -0.10
+>ANGLE Z: 3.40
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.21
+>ANGLE Y: -0.10
+>ANGLE Z: 3.40
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.22
+>ANGLE Y: -0.08
+>ANGLE Z: 3.41
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.23
+>ANGLE Y: -0.06
+>ANGLE Z: 3.41
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.23
+>ANGLE Y: -0.05
+>ANGLE Z: 3.42
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.24
+>ANGLE Y: -0.06
+>ANGLE Z: 3.42
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.24
+>ANGLE Y: -0.05
+>ANGLE Z: 3.43
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.24
+>ANGLE Y: -0.04
+>ANGLE Z: 3.43
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.26
+>ANGLE Y: -0.00
+>ANGLE Z: 3.43
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.23
+>ANGLE Y: 0.01
+>ANGLE Z: 3.44
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.21
+>ANGLE Y: 0.02
+>ANGLE Z: 3.44
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.21
+>ANGLE Y: 0.01
+>ANGLE Z: 3.45
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.18
+>ANGLE Y: 0.02
+>ANGLE Z: 3.45
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.17
+>ANGLE Y: 0.02
+>ANGLE Z: 3.46
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.17
+>ANGLE Y: 0.02
+>ANGLE Z: 3.46
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.16
+>ANGLE Y: -0.00
+>ANGLE Z: 3.47
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.15
+>ANGLE Y: 0.00
+>ANGLE Z: 3.47
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.13
+>ANGLE Y: 0.01
+>ANGLE Z: 3.48
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.12
+>ANGLE Y: 0.01
+>ANGLE Z: 3.48
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: 0.01
+>ANGLE Z: 3.49
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: 0.00
+>ANGLE Z: 3.49
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: 0.00
+>ANGLE Z: 3.49
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.07
+>ANGLE Y: -0.01
+>ANGLE Z: 3.50
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.06
+>ANGLE Y: -0.01
+>ANGLE Z: 3.50
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.04
+>ANGLE Y: -0.01
+>ANGLE Z: 3.50
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.02
+>ANGLE Z: 3.51
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.03
+>ANGLE Z: 3.51
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.02
+>ANGLE Z: 3.51
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.02
+>ANGLE Z: 3.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.02
+>ANGLE Z: 3.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.01
+>ANGLE Z: 3.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.04
+>ANGLE Y: -0.01
+>ANGLE Z: 3.53
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.04
+>ANGLE Y: -0.01
+>ANGLE Z: 3.54
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.06
+>ANGLE Y: 0.00
+>ANGLE Z: 3.54
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.05
+>ANGLE Y: 0.01
+>ANGLE Z: 3.55
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.06
+>ANGLE Y: 0.02
+>ANGLE Z: 3.55
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: 0.04
+>ANGLE Z: 3.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: 0.05
+>ANGLE Z: 3.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: 0.07
+>ANGLE Z: 3.58
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: 0.09
+>ANGLE Z: 3.59
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: 0.10
+>ANGLE Z: 3.60
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: 0.12
+>ANGLE Z: 3.61
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: 0.13
+>ANGLE Z: 3.62
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: 0.15
+>ANGLE Z: 3.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: 0.16
+>ANGLE Z: 3.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: 0.17
+>ANGLE Z: 3.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: 0.18
+>ANGLE Z: 3.67
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: 0.20
+>ANGLE Z: 3.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: 0.20
+>ANGLE Z: 3.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: 0.21
+>ANGLE Z: 3.71
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: 0.21
+>ANGLE Z: 3.72
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: 0.22
+>ANGLE Z: 3.73
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: 0.21
+>ANGLE Z: 3.74
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: 0.21
+>ANGLE Z: 3.76
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.07
+>ANGLE Y: 0.21
+>ANGLE Z: 3.77
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.06
+>ANGLE Y: 0.20
+>ANGLE Z: 3.78
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.04
+>ANGLE Y: 0.21
+>ANGLE Z: 3.79
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: 0.20
+>ANGLE Z: 3.80
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.00
+>ANGLE Y: 0.20
+>ANGLE Z: 3.81
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.01
+>ANGLE Y: 0.19
+>ANGLE Z: 3.82
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.02
+>ANGLE Y: 0.19
+>ANGLE Z: 3.83
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.04
+>ANGLE Y: 0.20
+>ANGLE Z: 3.84
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.07
+>ANGLE Y: 0.19
+>ANGLE Z: 3.85
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.17
+>ANGLE Z: 3.86
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.13
+>ANGLE Y: 0.18
+>ANGLE Z: 3.87
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.14
+>ANGLE Y: 0.15
+>ANGLE Z: 3.88
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.16
+>ANGLE Y: 0.13
+>ANGLE Z: 3.89
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.18
+>ANGLE Y: 0.13
+>ANGLE Z: 3.90
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.19
+>ANGLE Y: 0.12
+>ANGLE Z: 3.90
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.21
+>ANGLE Y: 0.12
+>ANGLE Z: 3.91
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.23
+>ANGLE Y: 0.13
+>ANGLE Z: 3.92
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.26
+>ANGLE Y: 0.14
+>ANGLE Z: 3.92
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.29
+>ANGLE Y: 0.14
+>ANGLE Z: 3.93
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.31
+>ANGLE Y: 0.14
+>ANGLE Z: 3.93
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.33
+>ANGLE Y: 0.14
+>ANGLE Z: 3.94
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.35
+>ANGLE Y: 0.14
+>ANGLE Z: 3.94
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.35
+>ANGLE Y: 0.15
+>ANGLE Z: 3.94
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.36
+>ANGLE Y: 0.16
+>ANGLE Z: 3.95
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.35
+>ANGLE Y: 0.16
+>ANGLE Z: 3.95
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.36
+>ANGLE Y: 0.16
+>ANGLE Z: 3.96
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.36
+>ANGLE Y: 0.17
+>ANGLE Z: 3.96
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.36
+>ANGLE Y: 0.19
+>ANGLE Z: 3.97
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.37
+>ANGLE Y: 0.21
+>ANGLE Z: 3.98
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.37
+>ANGLE Y: 0.23
+>ANGLE Z: 3.98
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.37
+>ANGLE Y: 0.24
+>ANGLE Z: 3.99
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.38
+>ANGLE Y: 0.25
+>ANGLE Z: 4.00
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.37
+>ANGLE Y: 0.25
+>ANGLE Z: 4.00
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.35
+>ANGLE Y: 0.26
+>ANGLE Z: 4.01
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.35
+>ANGLE Y: 0.27
+>ANGLE Z: 4.02
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.35
+>ANGLE Y: 0.28
+>ANGLE Z: 4.03
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.34
+>ANGLE Y: 0.30
+>ANGLE Z: 4.04
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.34
+>ANGLE Y: 0.31
+>ANGLE Z: 4.05
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.33
+>ANGLE Y: 0.33
+>ANGLE Z: 4.06
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.32
+>ANGLE Y: 0.33
+>ANGLE Z: 4.07
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.31
+>ANGLE Y: 0.35
+>ANGLE Z: 4.09
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.30
+>ANGLE Y: 0.36
+>ANGLE Z: 4.10
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.30
+>ANGLE Y: 0.38
+>ANGLE Z: 4.11
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.30
+>ANGLE Y: 0.39
+>ANGLE Z: 4.12
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.31
+>ANGLE Y: 0.39
+>ANGLE Z: 4.13
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.32
+>ANGLE Y: 0.40
+>ANGLE Z: 4.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.32
+>ANGLE Y: 0.41
+>ANGLE Z: 4.16
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.32
+>ANGLE Y: 0.41
+>ANGLE Z: 4.17
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.32
+>ANGLE Y: 0.41
+>ANGLE Z: 4.19
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.32
+>ANGLE Y: 0.42
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.33
+>ANGLE Y: 0.41
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.34
+>ANGLE Y: 0.41
+>ANGLE Z: 4.23
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.36
+>ANGLE Y: 0.41
+>ANGLE Z: 4.24
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.37
+>ANGLE Y: 0.42
+>ANGLE Z: 4.25
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.38
+>ANGLE Y: 0.44
+>ANGLE Z: 4.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.40
+>ANGLE Y: 0.42
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.42
+>ANGLE Y: 0.43
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.44
+>ANGLE Y: 0.43
+>ANGLE Z: 4.30
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.46
+>ANGLE Y: 0.43
+>ANGLE Z: 4.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.48
+>ANGLE Y: 0.42
+>ANGLE Z: 4.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.49
+>ANGLE Y: 0.42
+>ANGLE Z: 4.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.51
+>ANGLE Y: 0.43
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.52
+>ANGLE Y: 0.42
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.54
+>ANGLE Y: 0.43
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.55
+>ANGLE Y: 0.44
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.55
+>ANGLE Y: 0.45
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.46
+>ANGLE Z: 4.37
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.58
+>ANGLE Y: 0.47
+>ANGLE Z: 4.38
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.59
+>ANGLE Y: 0.48
+>ANGLE Z: 4.38
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.61
+>ANGLE Y: 0.50
+>ANGLE Z: 4.39
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.62
+>ANGLE Y: 0.51
+>ANGLE Z: 4.40
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.62
+>ANGLE Y: 0.52
+>ANGLE Z: 4.41
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.63
+>ANGLE Y: 0.54
+>ANGLE Z: 4.42
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.63
+>ANGLE Y: 0.56
+>ANGLE Z: 4.43
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.63
+>ANGLE Y: 0.57
+>ANGLE Z: 4.44
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.63
+>ANGLE Y: 0.58
+>ANGLE Z: 4.45
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.63
+>ANGLE Y: 0.60
+>ANGLE Z: 4.46
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.63
+>ANGLE Y: 0.61
+>ANGLE Z: 4.47
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.64
+>ANGLE Y: 0.62
+>ANGLE Z: 4.49
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.65
+>ANGLE Y: 0.64
+>ANGLE Z: 4.50
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.65
+>ANGLE Y: 0.65
+>ANGLE Z: 4.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.66
+>ANGLE Y: 0.67
+>ANGLE Z: 4.53
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.66
+>ANGLE Y: 0.67
+>ANGLE Z: 4.55
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.67
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.68
+>ANGLE Z: 4.58
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.69
+>ANGLE Z: 4.60
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.69
+>ANGLE Z: 4.61
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.68
+>ANGLE Y: 0.70
+>ANGLE Z: 4.63
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.68
+>ANGLE Y: 0.70
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.68
+>ANGLE Y: 0.69
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.69
+>ANGLE Y: 0.70
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.70
+>ANGLE Y: 0.70
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.71
+>ANGLE Y: 0.68
+>ANGLE Z: 4.70
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.72
+>ANGLE Y: 0.67
+>ANGLE Z: 4.72
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.73
+>ANGLE Y: 0.66
+>ANGLE Z: 4.73
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.74
+>ANGLE Y: 0.64
+>ANGLE Z: 4.74
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.78
+>ANGLE Y: 0.59
+>ANGLE Z: 4.74
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.81
+>ANGLE Y: 0.58
+>ANGLE Z: 4.75
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.84
+>ANGLE Y: 0.55
+>ANGLE Z: 4.75
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.88
+>ANGLE Y: 0.55
+>ANGLE Z: 4.75
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.93
+>ANGLE Y: 0.55
+>ANGLE Z: 4.74
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.98
+>ANGLE Y: 0.57
+>ANGLE Z: 4.73
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 1.02
+>ANGLE Y: 0.58
+>ANGLE Z: 4.72
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 1.05
+>ANGLE Y: 0.59
+>ANGLE Z: 4.71
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 1.07
+>ANGLE Y: 0.60
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 1.08
+>ANGLE Y: 0.58
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 1.08
+>ANGLE Y: 0.58
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 1.08
+>ANGLE Y: 0.59
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 1.06
+>ANGLE Y: 0.58
+>ANGLE Z: 4.62
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 1.05
+>ANGLE Y: 0.59
+>ANGLE Z: 4.60
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 1.01
+>ANGLE Y: 0.60
+>ANGLE Z: 4.59
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.99
+>ANGLE Y: 0.62
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.96
+>ANGLE Y: 0.64
+>ANGLE Z: 4.55
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.93
+>ANGLE Y: 0.67
+>ANGLE Z: 4.54
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.89
+>ANGLE Y: 0.69
+>ANGLE Z: 4.53
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.85
+>ANGLE Y: 0.72
+>ANGLE Z: 4.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.79
+>ANGLE Y: 0.74
+>ANGLE Z: 4.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.75
+>ANGLE Y: 0.77
+>ANGLE Z: 4.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.72
+>ANGLE Y: 0.77
+>ANGLE Z: 4.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.68
+>ANGLE Y: 0.78
+>ANGLE Z: 4.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.64
+>ANGLE Y: 0.79
+>ANGLE Z: 4.53
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.62
+>ANGLE Y: 0.81
+>ANGLE Z: 4.54
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.60
+>ANGLE Y: 0.81
+>ANGLE Z: 4.55
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.58
+>ANGLE Y: 0.82
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.81
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.55
+>ANGLE Y: 0.81
+>ANGLE Z: 4.59
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.55
+>ANGLE Y: 0.80
+>ANGLE Z: 4.60
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.54
+>ANGLE Y: 0.79
+>ANGLE Z: 4.62
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.54
+>ANGLE Y: 0.78
+>ANGLE Z: 4.63
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.54
+>ANGLE Y: 0.77
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.54
+>ANGLE Y: 0.74
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.73
+>ANGLE Z: 4.67
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.58
+>ANGLE Y: 0.71
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.59
+>ANGLE Y: 0.69
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.61
+>ANGLE Y: 0.67
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.64
+>ANGLE Y: 0.66
+>ANGLE Z: 4.70
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.65
+>ANGLE Z: 4.71
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.71
+>ANGLE Y: 0.63
+>ANGLE Z: 4.71
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.73
+>ANGLE Y: 0.63
+>ANGLE Z: 4.71
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.77
+>ANGLE Y: 0.62
+>ANGLE Z: 4.71
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.80
+>ANGLE Y: 0.62
+>ANGLE Z: 4.71
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.83
+>ANGLE Y: 0.60
+>ANGLE Z: 4.71
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.85
+>ANGLE Y: 0.60
+>ANGLE Z: 4.71
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.87
+>ANGLE Y: 0.60
+>ANGLE Z: 4.70
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.88
+>ANGLE Y: 0.60
+>ANGLE Z: 4.70
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.89
+>ANGLE Y: 0.60
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.89
+>ANGLE Y: 0.60
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.90
+>ANGLE Y: 0.62
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.90
+>ANGLE Y: 0.62
+>ANGLE Z: 4.67
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.90
+>ANGLE Y: 0.62
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.91
+>ANGLE Y: 0.61
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.91
+>ANGLE Y: 0.61
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.91
+>ANGLE Y: 0.61
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.90
+>ANGLE Y: 0.62
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.90
+>ANGLE Y: 0.62
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.89
+>ANGLE Y: 0.63
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.87
+>ANGLE Y: 0.63
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.86
+>ANGLE Y: 0.62
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.83
+>ANGLE Y: 0.62
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.82
+>ANGLE Y: 0.62
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.81
+>ANGLE Y: 0.61
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.80
+>ANGLE Y: 0.61
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.79
+>ANGLE Y: 0.62
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.78
+>ANGLE Y: 0.61
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.78
+>ANGLE Y: 0.60
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.78
+>ANGLE Y: 0.60
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.76
+>ANGLE Y: 0.60
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.76
+>ANGLE Y: 0.60
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.76
+>ANGLE Y: 0.60
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.77
+>ANGLE Y: 0.59
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.77
+>ANGLE Y: 0.59
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.78
+>ANGLE Y: 0.58
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.79
+>ANGLE Y: 0.58
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.80
+>ANGLE Y: 0.58
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.80
+>ANGLE Y: 0.57
+>ANGLE Z: 4.63
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.79
+>ANGLE Y: 0.57
+>ANGLE Z: 4.62
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.78
+>ANGLE Y: 0.57
+>ANGLE Z: 4.62
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.77
+>ANGLE Y: 0.57
+>ANGLE Z: 4.61
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.75
+>ANGLE Y: 0.58
+>ANGLE Z: 4.61
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.74
+>ANGLE Y: 0.59
+>ANGLE Z: 4.60
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.74
+>ANGLE Y: 0.60
+>ANGLE Z: 4.59
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.73
+>ANGLE Y: 0.60
+>ANGLE Z: 4.59
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.72
+>ANGLE Y: 0.60
+>ANGLE Z: 4.58
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.71
+>ANGLE Y: 0.62
+>ANGLE Z: 4.58
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.70
+>ANGLE Y: 0.62
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.69
+>ANGLE Y: 0.61
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.62
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.65
+>ANGLE Y: 0.64
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.63
+>ANGLE Y: 0.65
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.63
+>ANGLE Y: 0.66
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.61
+>ANGLE Y: 0.66
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.60
+>ANGLE Y: 0.65
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.58
+>ANGLE Y: 0.65
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.58
+>ANGLE Y: 0.65
+>ANGLE Z: 4.58
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.58
+>ANGLE Y: 0.65
+>ANGLE Z: 4.58
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.66
+>ANGLE Z: 4.58
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.66
+>ANGLE Z: 4.59
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.58
+>ANGLE Y: 0.65
+>ANGLE Z: 4.59
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.59
+>ANGLE Y: 0.66
+>ANGLE Z: 4.60
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.59
+>ANGLE Y: 0.67
+>ANGLE Z: 4.60
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.59
+>ANGLE Y: 0.67
+>ANGLE Z: 4.61
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.59
+>ANGLE Y: 0.66
+>ANGLE Z: 4.61
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.60
+>ANGLE Y: 0.67
+>ANGLE Z: 4.62
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.60
+>ANGLE Y: 0.68
+>ANGLE Z: 4.62
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.61
+>ANGLE Y: 0.68
+>ANGLE Z: 4.62
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.61
+>ANGLE Y: 0.69
+>ANGLE Z: 4.63
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.63
+>ANGLE Y: 0.69
+>ANGLE Z: 4.63
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.64
+>ANGLE Y: 0.69
+>ANGLE Z: 4.63
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.65
+>ANGLE Y: 0.69
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.66
+>ANGLE Y: 0.70
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.70
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.71
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.71
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.68
+>ANGLE Y: 0.71
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.70
+>ANGLE Y: 0.72
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.71
+>ANGLE Y: 0.72
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.70
+>ANGLE Y: 0.72
+>ANGLE Z: 4.67
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.71
+>ANGLE Y: 0.73
+>ANGLE Z: 4.67
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.73
+>ANGLE Y: 0.74
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.74
+>ANGLE Y: 0.72
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.74
+>ANGLE Y: 0.71
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.76
+>ANGLE Y: 0.72
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.76
+>ANGLE Y: 0.71
+>ANGLE Z: 4.70
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.76
+>ANGLE Y: 0.71
+>ANGLE Z: 4.71
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.77
+>ANGLE Y: 0.71
+>ANGLE Z: 4.71
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.78
+>ANGLE Y: 0.71
+>ANGLE Z: 4.72
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.78
+>ANGLE Y: 0.70
+>ANGLE Z: 4.72
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.80
+>ANGLE Y: 0.69
+>ANGLE Z: 4.73
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.81
+>ANGLE Y: 0.67
+>ANGLE Z: 4.73
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.82
+>ANGLE Y: 0.66
+>ANGLE Z: 4.74
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.83
+>ANGLE Y: 0.65
+>ANGLE Z: 4.74
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.84
+>ANGLE Y: 0.64
+>ANGLE Z: 4.75
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.84
+>ANGLE Y: 0.63
+>ANGLE Z: 4.75
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.84
+>ANGLE Y: 0.63
+>ANGLE Z: 4.76
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.84
+>ANGLE Y: 0.62
+>ANGLE Z: 4.76
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.84
+>ANGLE Y: 0.61
+>ANGLE Z: 4.76
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.85
+>ANGLE Y: 0.60
+>ANGLE Z: 4.76
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.86
+>ANGLE Y: 0.59
+>ANGLE Z: 4.77
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.85
+>ANGLE Y: 0.57
+>ANGLE Z: 4.77
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.85
+>ANGLE Y: 0.56
+>ANGLE Z: 4.77
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.86
+>ANGLE Y: 0.56
+>ANGLE Z: 4.77
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.86
+>ANGLE Y: 0.56
+>ANGLE Z: 4.77
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.86
+>ANGLE Y: 0.55
+>ANGLE Z: 4.77
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.86
+>ANGLE Y: 0.56
+>ANGLE Z: 4.77
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.88
+>ANGLE Y: 0.56
+>ANGLE Z: 4.77
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.88
+>ANGLE Y: 0.56
+>ANGLE Z: 4.77
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.88
+>ANGLE Y: 0.57
+>ANGLE Z: 4.77
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.87
+>ANGLE Y: 0.56
+>ANGLE Z: 4.77
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.87
+>ANGLE Y: 0.56
+>ANGLE Z: 4.77
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.87
+>ANGLE Y: 0.55
+>ANGLE Z: 4.76
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.86
+>ANGLE Y: 0.54
+>ANGLE Z: 4.76
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.85
+>ANGLE Y: 0.54
+>ANGLE Z: 4.76
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.84
+>ANGLE Y: 0.54
+>ANGLE Z: 4.76
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.84
+>ANGLE Y: 0.53
+>ANGLE Z: 4.76
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.84
+>ANGLE Y: 0.53
+>ANGLE Z: 4.75
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.83
+>ANGLE Y: 0.53
+>ANGLE Z: 4.75
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.83
+>ANGLE Y: 0.52
+>ANGLE Z: 4.75
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.83
+>ANGLE Y: 0.51
+>ANGLE Z: 4.74
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.83
+>ANGLE Y: 0.50
+>ANGLE Z: 4.74
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.83
+>ANGLE Y: 0.50
+>ANGLE Z: 4.74
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.83
+>ANGLE Y: 0.50
+>ANGLE Z: 4.73
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.83
+>ANGLE Y: 0.51
+>ANGLE Z: 4.73
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.83
+>ANGLE Y: 0.51
+>ANGLE Z: 4.73
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.82
+>ANGLE Y: 0.50
+>ANGLE Z: 4.73
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.81
+>ANGLE Y: 0.51
+>ANGLE Z: 4.72
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.80
+>ANGLE Y: 0.52
+>ANGLE Z: 4.72
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.79
+>ANGLE Y: 0.53
+>ANGLE Z: 4.72
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.78
+>ANGLE Y: 0.52
+>ANGLE Z: 4.71
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.77
+>ANGLE Y: 0.52
+>ANGLE Z: 4.71
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.76
+>ANGLE Y: 0.51
+>ANGLE Z: 4.71
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.75
+>ANGLE Y: 0.51
+>ANGLE Z: 4.70
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.75
+>ANGLE Y: 0.51
+>ANGLE Z: 4.70
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.73
+>ANGLE Y: 0.52
+>ANGLE Z: 4.70
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.72
+>ANGLE Y: 0.52
+>ANGLE Z: 4.70
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.71
+>ANGLE Y: 0.52
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.70
+>ANGLE Y: 0.51
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.69
+>ANGLE Y: 0.52
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.69
+>ANGLE Y: 0.52
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.68
+>ANGLE Y: 0.51
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.52
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.53
+>ANGLE Z: 4.69
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.55
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.56
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.56
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.56
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.66
+>ANGLE Y: 0.57
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.66
+>ANGLE Y: 0.57
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.65
+>ANGLE Y: 0.58
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.65
+>ANGLE Y: 0.56
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.66
+>ANGLE Y: 0.55
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.54
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.55
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.68
+>ANGLE Y: 0.55
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.55
+>ANGLE Z: 4.68
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.68
+>ANGLE Y: 0.56
+>ANGLE Z: 4.67
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.68
+>ANGLE Y: 0.56
+>ANGLE Z: 4.67
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.68
+>ANGLE Y: 0.56
+>ANGLE Z: 4.67
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.69
+>ANGLE Y: 0.57
+>ANGLE Z: 4.67
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.70
+>ANGLE Y: 0.56
+>ANGLE Z: 4.67
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.70
+>ANGLE Y: 0.56
+>ANGLE Z: 4.67
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.72
+>ANGLE Y: 0.56
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.72
+>ANGLE Y: 0.56
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.72
+>ANGLE Y: 0.55
+>ANGLE Z: 4.66
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.72
+>ANGLE Y: 0.55
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.72
+>ANGLE Y: 0.54
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.73
+>ANGLE Y: 0.55
+>ANGLE Z: 4.65
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.73
+>ANGLE Y: 0.56
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.73
+>ANGLE Y: 0.56
+>ANGLE Z: 4.64
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.72
+>ANGLE Y: 0.55
+>ANGLE Z: 4.63
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.73
+>ANGLE Y: 0.56
+>ANGLE Z: 4.63
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.72
+>ANGLE Y: 0.55
+>ANGLE Z: 4.62
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.72
+>ANGLE Y: 0.55
+>ANGLE Z: 4.62
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.71
+>ANGLE Y: 0.56
+>ANGLE Z: 4.61
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.71
+>ANGLE Y: 0.55
+>ANGLE Z: 4.61
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.70
+>ANGLE Y: 0.54
+>ANGLE Z: 4.60
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.69
+>ANGLE Y: 0.54
+>ANGLE Z: 4.60
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.68
+>ANGLE Y: 0.55
+>ANGLE Z: 4.60
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.56
+>ANGLE Z: 4.59
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.67
+>ANGLE Y: 0.56
+>ANGLE Z: 4.59
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.66
+>ANGLE Y: 0.56
+>ANGLE Z: 4.59
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.66
+>ANGLE Y: 0.57
+>ANGLE Z: 4.58
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.64
+>ANGLE Y: 0.55
+>ANGLE Z: 4.58
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.63
+>ANGLE Y: 0.55
+>ANGLE Z: 4.58
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.61
+>ANGLE Y: 0.55
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.60
+>ANGLE Y: 0.55
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.59
+>ANGLE Y: 0.56
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.58
+>ANGLE Y: 0.55
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.54
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.56
+>ANGLE Y: 0.54
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.55
+>ANGLE Y: 0.53
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.54
+>ANGLE Y: 0.53
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.53
+>ANGLE Y: 0.53
+>ANGLE Z: 4.57
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.53
+>ANGLE Y: 0.55
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.52
+>ANGLE Y: 0.55
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.51
+>ANGLE Y: 0.54
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.50
+>ANGLE Y: 0.54
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.49
+>ANGLE Y: 0.54
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.50
+>ANGLE Y: 0.54
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.49
+>ANGLE Y: 0.53
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.49
+>ANGLE Y: 0.52
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.48
+>ANGLE Y: 0.52
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.49
+>ANGLE Y: 0.51
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.49
+>ANGLE Y: 0.51
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.49
+>ANGLE Y: 0.50
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.50
+>ANGLE Y: 0.50
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.50
+>ANGLE Y: 0.50
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.51
+>ANGLE Y: 0.49
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.51
+>ANGLE Y: 0.50
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.51
+>ANGLE Y: 0.49
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.52
+>ANGLE Y: 0.48
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.52
+>ANGLE Y: 0.48
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.55
+>ANGLE Y: 0.49
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.56
+>ANGLE Y: 0.50
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.56
+>ANGLE Y: 0.49
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.49
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.49
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.48
+>ANGLE Z: 4.56
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.49
+>ANGLE Z: 4.55
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.58
+>ANGLE Y: 0.48
+>ANGLE Z: 4.55
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.58
+>ANGLE Y: 0.48
+>ANGLE Z: 4.55
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.48
+>ANGLE Z: 4.55
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.47
+>ANGLE Z: 4.55
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.56
+>ANGLE Y: 0.47
+>ANGLE Z: 4.55
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.56
+>ANGLE Y: 0.47
+>ANGLE Z: 4.55
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.56
+>ANGLE Y: 0.47
+>ANGLE Z: 4.55
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.47
+>ANGLE Z: 4.54
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.58
+>ANGLE Y: 0.47
+>ANGLE Z: 4.54
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.58
+>ANGLE Y: 0.48
+>ANGLE Z: 4.54
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.48
+>ANGLE Z: 4.54
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.56
+>ANGLE Y: 0.47
+>ANGLE Z: 4.54
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.47
+>ANGLE Z: 4.54
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.46
+>ANGLE Z: 4.54
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.57
+>ANGLE Y: 0.47
+>ANGLE Z: 4.54
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.56
+>ANGLE Y: 0.47
+>ANGLE Z: 4.54
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.56
+>ANGLE Y: 0.47
+>ANGLE Z: 4.53
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.55
+>ANGLE Y: 0.48
+>ANGLE Z: 4.53
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.55
+>ANGLE Y: 0.48
+>ANGLE Z: 4.53
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.54
+>ANGLE Y: 0.47
+>ANGLE Z: 4.53
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.54
+>ANGLE Y: 0.46
+>ANGLE Z: 4.53
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.53
+>ANGLE Y: 0.45
+>ANGLE Z: 4.53
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.53
+>ANGLE Y: 0.44
+>ANGLE Z: 4.53
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.52
+>ANGLE Y: 0.44
+>ANGLE Z: 4.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.52
+>ANGLE Y: 0.42
+>ANGLE Z: 4.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.51
+>ANGLE Y: 0.43
+>ANGLE Z: 4.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.49
+>ANGLE Y: 0.43
+>ANGLE Z: 4.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.48
+>ANGLE Y: 0.44
+>ANGLE Z: 4.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.49
+>ANGLE Y: 0.43
+>ANGLE Z: 4.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.48
+>ANGLE Y: 0.43
+>ANGLE Z: 4.52
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.48
+>ANGLE Y: 0.43
+>ANGLE Z: 4.51
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.48
+>ANGLE Y: 0.41
+>ANGLE Z: 4.51
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.47
+>ANGLE Y: 0.41
+>ANGLE Z: 4.51
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.46
+>ANGLE Y: 0.41
+>ANGLE Z: 4.51
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.47
+>ANGLE Y: 0.40
+>ANGLE Z: 4.51
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.47
+>ANGLE Y: 0.38
+>ANGLE Z: 4.51
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.47
+>ANGLE Y: 0.37
+>ANGLE Z: 4.50
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.47
+>ANGLE Y: 0.37
+>ANGLE Z: 4.50
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.47
+>ANGLE Y: 0.37
+>ANGLE Z: 4.50
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.46
+>ANGLE Y: 0.38
+>ANGLE Z: 4.50
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.47
+>ANGLE Y: 0.39
+>ANGLE Z: 4.50
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.47
+>ANGLE Y: 0.39
+>ANGLE Z: 4.49
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.47
+>ANGLE Y: 0.39
+>ANGLE Z: 4.49
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.47
+>ANGLE Y: 0.38
+>ANGLE Z: 4.49
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.47
+>ANGLE Y: 0.39
+>ANGLE Z: 4.48
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.47
+>ANGLE Y: 0.37
+>ANGLE Z: 4.48
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.47
+>ANGLE Y: 0.36
+>ANGLE Z: 4.48
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.48
+>ANGLE Y: 0.34
+>ANGLE Z: 4.47
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.48
+>ANGLE Y: 0.34
+>ANGLE Z: 4.47
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.49
+>ANGLE Y: 0.33
+>ANGLE Z: 4.46
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.49
+>ANGLE Y: 0.32
+>ANGLE Z: 4.45
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.49
+>ANGLE Y: 0.31
+>ANGLE Z: 4.45
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.48
+>ANGLE Y: 0.31
+>ANGLE Z: 4.44
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.49
+>ANGLE Y: 0.31
+>ANGLE Z: 4.44
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.48
+>ANGLE Y: 0.31
+>ANGLE Z: 4.43
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.48
+>ANGLE Y: 0.30
+>ANGLE Z: 4.43
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.48
+>ANGLE Y: 0.30
+>ANGLE Z: 4.42
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.46
+>ANGLE Y: 0.29
+>ANGLE Z: 4.41
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.46
+>ANGLE Y: 0.29
+>ANGLE Z: 4.41
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.44
+>ANGLE Y: 0.29
+>ANGLE Z: 4.40
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.43
+>ANGLE Y: 0.29
+>ANGLE Z: 4.40
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.43
+>ANGLE Y: 0.30
+>ANGLE Z: 4.39
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.41
+>ANGLE Y: 0.30
+>ANGLE Z: 4.39
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.40
+>ANGLE Y: 0.32
+>ANGLE Z: 4.38
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.39
+>ANGLE Y: 0.32
+>ANGLE Z: 4.38
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.38
+>ANGLE Y: 0.30
+>ANGLE Z: 4.37
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.38
+>ANGLE Y: 0.31
+>ANGLE Z: 4.37
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.36
+>ANGLE Y: 0.32
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.36
+>ANGLE Y: 0.33
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.35
+>ANGLE Y: 0.32
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.34
+>ANGLE Y: 0.31
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.34
+>ANGLE Y: 0.31
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.33
+>ANGLE Y: 0.30
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.32
+>ANGLE Y: 0.30
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.30
+>ANGLE Y: 0.29
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.30
+>ANGLE Y: 0.30
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.29
+>ANGLE Y: 0.29
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.28
+>ANGLE Y: 0.29
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.28
+>ANGLE Y: 0.27
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.27
+>ANGLE Y: 0.27
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.27
+>ANGLE Y: 0.26
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.27
+>ANGLE Y: 0.25
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.27
+>ANGLE Y: 0.25
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.27
+>ANGLE Y: 0.24
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.27
+>ANGLE Y: 0.24
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.27
+>ANGLE Y: 0.24
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.26
+>ANGLE Y: 0.24
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.26
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.26
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.27
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.28
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.29
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.29
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.29
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.29
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.29
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.28
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.28
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.27
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.26
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.28
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.26
+>ANGLE Y: 0.27
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.26
+>ANGLE Y: 0.26
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.25
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.26
+>ANGLE Y: 0.24
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.24
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.24
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.25
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.24
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.25
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.24
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.23
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.23
+>ANGLE Y: 0.22
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.23
+>ANGLE Y: 0.22
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.23
+>ANGLE Y: 0.23
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.23
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.23
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.23
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.23
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.23
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.23
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.26
+>ANGLE Y: 0.24
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.26
+>ANGLE Y: 0.24
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.26
+>ANGLE Y: 0.24
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.24
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.26
+>ANGLE Y: 0.23
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.23
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.23
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.24
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.23
+>ANGLE Y: 0.24
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.23
+>ANGLE Y: 0.23
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.22
+>ANGLE Y: 0.23
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.21
+>ANGLE Y: 0.22
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.21
+>ANGLE Y: 0.23
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.21
+>ANGLE Y: 0.24
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.20
+>ANGLE Y: 0.22
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.20
+>ANGLE Y: 0.21
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.20
+>ANGLE Y: 0.21
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.21
+>ANGLE Y: 0.21
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.22
+>ANGLE Y: 0.21
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.23
+>ANGLE Y: 0.21
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.20
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.21
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.21
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.23
+>ANGLE Y: 0.20
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.23
+>ANGLE Y: 0.19
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.23
+>ANGLE Y: 0.19
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.18
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.23
+>ANGLE Y: 0.19
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.23
+>ANGLE Y: 0.18
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.16
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.14
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.14
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.12
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.11
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.11
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.11
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.26
+>ANGLE Y: 0.10
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.27
+>ANGLE Y: 0.10
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.29
+>ANGLE Y: 0.11
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.29
+>ANGLE Y: 0.12
+>ANGLE Z: 4.36
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.28
+>ANGLE Y: 0.11
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.27
+>ANGLE Y: 0.11
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.27
+>ANGLE Y: 0.12
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.28
+>ANGLE Y: 0.12
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.28
+>ANGLE Y: 0.11
+>ANGLE Z: 4.35
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.27
+>ANGLE Y: 0.13
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.26
+>ANGLE Y: 0.13
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.25
+>ANGLE Y: 0.13
+>ANGLE Z: 4.34
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.24
+>ANGLE Y: 0.13
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.22
+>ANGLE Y: 0.13
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.22
+>ANGLE Y: 0.13
+>ANGLE Z: 4.33
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.21
+>ANGLE Y: 0.13
+>ANGLE Z: 4.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.21
+>ANGLE Y: 0.12
+>ANGLE Z: 4.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.20
+>ANGLE Y: 0.13
+>ANGLE Z: 4.32
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.20
+>ANGLE Y: 0.13
+>ANGLE Z: 4.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.20
+>ANGLE Y: 0.12
+>ANGLE Z: 4.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.19
+>ANGLE Y: 0.12
+>ANGLE Z: 4.31
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.19
+>ANGLE Y: 0.13
+>ANGLE Z: 4.30
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.19
+>ANGLE Y: 0.13
+>ANGLE Z: 4.30
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.19
+>ANGLE Y: 0.12
+>ANGLE Z: 4.30
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.18
+>ANGLE Y: 0.12
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.17
+>ANGLE Y: 0.12
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.17
+>ANGLE Y: 0.12
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.16
+>ANGLE Y: 0.13
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.16
+>ANGLE Y: 0.13
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.14
+>ANGLE Y: 0.13
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.14
+>ANGLE Y: 0.12
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.13
+>ANGLE Y: 0.12
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.12
+>ANGLE Y: 0.13
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.11
+>ANGLE Y: 0.13
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.13
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.13
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.13
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.13
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.12
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.12
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.12
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.12
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.11
+>ANGLE Y: 0.12
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.11
+>ANGLE Y: 0.12
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.11
+>ANGLE Y: 0.12
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.12
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.12
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.12
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.08
+>ANGLE Y: 0.11
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.08
+>ANGLE Y: 0.11
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.10
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.10
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.10
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.10
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.07
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.06
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.06
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.07
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.09
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.08
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.09
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.09
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.08
+>ANGLE Y: 0.09
+>ANGLE Z: 4.29
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.08
+>ANGLE Y: 0.09
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.07
+>ANGLE Y: 0.10
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.07
+>ANGLE Y: 0.11
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.07
+>ANGLE Y: 0.11
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.07
+>ANGLE Y: 0.11
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.08
+>ANGLE Y: 0.11
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.10
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.09
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.10
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.09
+>ANGLE Z: 4.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.09
+>ANGLE Z: 4.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.09
+>ANGLE Z: 4.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.09
+>ANGLE Z: 4.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: 0.08
+>ANGLE Z: 4.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.08
+>ANGLE Z: 4.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: 0.08
+>ANGLE Z: 4.26
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.08
+>ANGLE Y: 0.08
+>ANGLE Z: 4.26
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.08
+>ANGLE Y: 0.08
+>ANGLE Z: 4.26
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.07
+>ANGLE Y: 0.08
+>ANGLE Z: 4.26
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.08
+>ANGLE Y: 0.06
+>ANGLE Z: 4.26
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.08
+>ANGLE Y: 0.05
+>ANGLE Z: 4.25
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.07
+>ANGLE Y: 0.05
+>ANGLE Z: 4.25
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.06
+>ANGLE Y: 0.04
+>ANGLE Z: 4.25
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.06
+>ANGLE Y: 0.03
+>ANGLE Z: 4.25
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.06
+>ANGLE Y: 0.02
+>ANGLE Z: 4.25
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.06
+>ANGLE Y: 0.01
+>ANGLE Z: 4.25
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.06
+>ANGLE Y: 0.00
+>ANGLE Z: 4.24
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.06
+>ANGLE Y: -0.00
+>ANGLE Z: 4.24
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.05
+>ANGLE Y: 0.00
+>ANGLE Z: 4.24
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.04
+>ANGLE Y: 0.01
+>ANGLE Z: 4.24
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.03
+>ANGLE Y: -0.00
+>ANGLE Z: 4.24
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.03
+>ANGLE Y: -0.00
+>ANGLE Z: 4.24
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.03
+>ANGLE Y: -0.00
+>ANGLE Z: 4.23
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.03
+>ANGLE Y: 0.00
+>ANGLE Z: 4.23
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.02
+>ANGLE Y: -0.00
+>ANGLE Z: 4.23
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.02
+>ANGLE Y: -0.01
+>ANGLE Z: 4.23
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.00
+>ANGLE Y: -0.03
+>ANGLE Z: 4.23
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.00
+>ANGLE Y: -0.03
+>ANGLE Z: 4.23
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.01
+>ANGLE Y: -0.03
+>ANGLE Z: 4.23
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.02
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.01
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.01
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.04
+>ANGLE Y: -0.01
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.01
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.01
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.01
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.04
+>ANGLE Y: -0.00
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.00
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.00
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: 0.00
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.00
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.02
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.04
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.04
+>ANGLE Y: -0.04
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.04
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.02
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.02
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.04
+>ANGLE Y: -0.02
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.01
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.00
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.00
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.00
+>ANGLE Y: -0.02
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.01
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.04
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.04
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.04
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.02
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.01
+>ANGLE Y: -0.04
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.01
+>ANGLE Y: -0.04
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.01
+>ANGLE Y: -0.04
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.01
+>ANGLE Y: -0.04
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.01
+>ANGLE Y: -0.05
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.00
+>ANGLE Y: -0.05
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.01
+>ANGLE Y: -0.04
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.01
+>ANGLE Y: -0.05
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.01
+>ANGLE Y: -0.05
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.04
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.04
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.03
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.02
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.03
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.02
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.04
+>ANGLE Y: -0.02
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.04
+>ANGLE Y: -0.02
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.05
+>ANGLE Y: -0.02
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.06
+>ANGLE Y: -0.02
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.06
+>ANGLE Y: -0.02
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.06
+>ANGLE Y: -0.02
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.07
+>ANGLE Y: -0.02
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: -0.03
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: -0.04
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: -0.02
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: -0.02
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.03
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.04
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: -0.05
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: -0.05
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: -0.06
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.07
+>ANGLE Y: -0.05
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.07
+>ANGLE Y: -0.04
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: -0.04
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: -0.05
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: -0.05
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.05
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.06
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.05
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.04
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.04
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.12
+>ANGLE Y: -0.03
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.12
+>ANGLE Y: -0.03
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.03
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.03
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.04
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.04
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: -0.03
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: -0.02
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: -0.03
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.03
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: -0.05
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.05
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.04
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.12
+>ANGLE Y: -0.04
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.12
+>ANGLE Y: -0.04
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.12
+>ANGLE Y: -0.07
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.06
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.07
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.06
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.06
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.06
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.06
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.07
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.09
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.09
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.10
+>ANGLE Z: 4.19
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.09
+>ANGLE Z: 4.19
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.10
+>ANGLE Z: 4.19
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.10
+>ANGLE Z: 4.19
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.07
+>ANGLE Z: 4.19
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.12
+>ANGLE Z: 4.18
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.11
+>ANGLE Z: 4.18
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: -0.12
+>ANGLE Z: 4.18
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: -0.14
+>ANGLE Z: 4.18
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: -0.14
+>ANGLE Z: 4.17
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: -0.12
+>ANGLE Z: 4.17
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.07
+>ANGLE Y: -0.12
+>ANGLE Z: 4.17
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.07
+>ANGLE Y: -0.11
+>ANGLE Z: 4.16
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: -0.10
+>ANGLE Z: 4.16
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: -0.08
+>ANGLE Z: 4.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: -0.07
+>ANGLE Z: 4.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.06
+>ANGLE Z: 4.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: -0.05
+>ANGLE Z: 4.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.13
+>ANGLE Y: -0.04
+>ANGLE Z: 4.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.14
+>ANGLE Y: -0.04
+>ANGLE Z: 4.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.16
+>ANGLE Y: -0.05
+>ANGLE Z: 4.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.17
+>ANGLE Y: -0.04
+>ANGLE Z: 4.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.19
+>ANGLE Y: -0.03
+>ANGLE Z: 4.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.19
+>ANGLE Y: -0.03
+>ANGLE Z: 4.16
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.03
+>ANGLE Z: 4.16
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: -0.00
+>ANGLE Z: 4.17
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: 0.00
+>ANGLE Z: 4.17
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.21
+>ANGLE Y: 0.02
+>ANGLE Z: 4.18
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: 0.02
+>ANGLE Z: 4.18
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.20
+>ANGLE Y: 0.02
+>ANGLE Z: 4.19
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.19
+>ANGLE Y: 0.02
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.18
+>ANGLE Y: 0.02
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.16
+>ANGLE Y: 0.02
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.14
+>ANGLE Y: 0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.13
+>ANGLE Y: 0.03
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.12
+>ANGLE Y: 0.04
+>ANGLE Z: 4.23
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.11
+>ANGLE Y: 0.04
+>ANGLE Z: 4.23
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: 0.03
+>ANGLE Z: 4.24
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.09
+>ANGLE Y: 0.03
+>ANGLE Z: 4.24
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.07
+>ANGLE Y: 0.02
+>ANGLE Z: 4.25
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.06
+>ANGLE Y: 0.01
+>ANGLE Z: 4.25
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: 0.00
+>ANGLE Z: 4.26
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.01
+>ANGLE Z: 4.26
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.02
+>ANGLE Y: -0.03
+>ANGLE Z: 4.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.01
+>ANGLE Y: -0.03
+>ANGLE Z: 4.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.01
+>ANGLE Y: -0.04
+>ANGLE Z: 4.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.02
+>ANGLE Y: -0.05
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.04
+>ANGLE Y: -0.05
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.05
+>ANGLE Y: -0.06
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.07
+>ANGLE Y: -0.06
+>ANGLE Z: 4.28
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.08
+>ANGLE Y: -0.08
+>ANGLE Z: 4.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: -0.09
+>ANGLE Z: 4.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: -0.11
+>ANGLE Z: 4.27
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.11
+>ANGLE Y: -0.11
+>ANGLE Z: 4.26
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.11
+>ANGLE Y: -0.11
+>ANGLE Z: 4.26
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: -0.12
+>ANGLE Z: 4.25
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.10
+>ANGLE Y: -0.12
+>ANGLE Z: 4.25
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.09
+>ANGLE Y: -0.13
+>ANGLE Z: 4.24
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.06
+>ANGLE Y: -0.14
+>ANGLE Z: 4.24
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.05
+>ANGLE Y: -0.14
+>ANGLE Z: 4.23
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.04
+>ANGLE Y: -0.15
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.03
+>ANGLE Y: -0.15
+>ANGLE Z: 4.22
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: 0.00
+>ANGLE Y: -0.16
+>ANGLE Z: 4.21
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.01
+>ANGLE Y: -0.16
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.03
+>ANGLE Y: -0.17
+>ANGLE Z: 4.20
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.04
+>ANGLE Y: -0.17
+>ANGLE Z: 4.19
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.06
+>ANGLE Y: -0.16
+>ANGLE Z: 4.18
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.08
+>ANGLE Y: -0.15
+>ANGLE Z: 4.18
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.10
+>ANGLE Y: -0.15
+>ANGLE Z: 4.17
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.12
+>ANGLE Y: -0.15
+>ANGLE Z: 4.17
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.13
+>ANGLE Y: -0.18
+>ANGLE Z: 4.16
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.15
+>ANGLE Y: -0.17
+>ANGLE Z: 4.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.16
+>ANGLE Y: -0.15
+>ANGLE Z: 4.15
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.17
+>ANGLE Y: -0.13
+>ANGLE Z: 4.14
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.19
+>ANGLE Y: -0.13
+>ANGLE Z: 4.14
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.21
+>ANGLE Y: -0.13
+>ANGLE Z: 4.13
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.23
+>ANGLE Y: -0.14
+>ANGLE Z: 4.13
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.25
+>ANGLE Y: -0.14
+>ANGLE Z: 4.13
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.27
+>ANGLE Y: -0.14
+>ANGLE Z: 4.13
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.29
+>ANGLE Y: -0.16
+>ANGLE Z: 4.13
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0.00
+>ANGLE X: -0.30
+>ANGLE Y: -0.15
+>ANGLE Z: 4.13
+>p:0.00
+>i:0.00
+>d:0.00
+>regl:0.00
+>motor:0Autoprint of MPU info disabled.
+00
+[CC1101] Initializing ... success!
+[CC1101] Setting node address ... success!
+[CC1101] Waiting for incoming transmission ... failed, code -6
+<help>
+/b|Returns Battery Voltage. If followed by a number (z.B.4) it reads out battery every 4 [ms]. Set to -1 to disable this freature
+/m|Motorsteuerung: Give Speed in Percent (for example 8) and add one (so 9). Set to 1 to turn Motor off
+/f|Frequncyrange of the Motors: Give Frequency in Percent and subtract one Percent
+/w|I2C Scanner
+r/recives a radio packet.
+/a prints mpu values. /ae enable autoprinting, /ad disable autoprinting /ac to calibrate

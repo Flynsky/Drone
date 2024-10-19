@@ -1,0 +1,4 @@
+V1
+Mass (no battery): 50g
+Total Thrust: ~25g
+This is baad
